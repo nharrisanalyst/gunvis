@@ -1,0 +1,25 @@
+{
+  "name": "gun-viz",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "d3-request": "^1.0.6",
+    "d3-scale": "^1.0.6",
+    "deck.gl": "^4.1.4",
+    "luma.gl": "^4.0.5",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-map-gl": "^3.0.5",
+    "react-vis": "^1.7.9"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
