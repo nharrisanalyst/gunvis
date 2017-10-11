@@ -72,7 +72,7 @@ _resize(){
 
     return (
       <div className="App" style={{position: 'relative'}}>
-        <Select/>
+      
 
         <ReactMapGL
         {...this.state.viewpoint}
