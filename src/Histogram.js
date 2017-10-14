@@ -1,27 +1,56 @@
 import React, {Component} from 'react';
 import * as d3Scale from 'd3-scale';
 import * as d3Array from 'd3-array';
-import {XYPlot, XAxis, YAxis, HorizontalGridLines, VerticalGridLines, BarSeries}
-import * as data from './data.json';
-
-xScale = d3scale.scaleBand().domain(['NA','Asian','White','Black','Latino']).paddingOuter(.1).paddingInner(.1);
+import {XYPlot, XAxis, YAxis, HorizontalGridLines, VerticalGridLines, VerticalBarSeries} from 'react-vis';
+import '../node_modules/react-vis/dist/style.css';
 
 
-class HistoChart = props =>{
 
 
+
+
+
+const HistoChart = ({visible, indoStyle, data, title}) =>{
+
+
+
+
+  const keys = Object.keys(data);
+  let barData=[];
+
+  keys.forEach((key)=>{
+    barData.push({x:key.toString(), y:data[key]})
+
+  });
+ let histoStyle = {height:400, width:300,  zIndex: 100}
+
+
+    Object.keys(indoStyle).forEach((key)=>{
+        histoStyle[key]=indoStyle[key];
+    })
 
   return(
-    <div>
-       <XYPlot height ={300} width={300}>
+
+    <div className='chartClass' style={{...histoStyle}}>
+      <div style={{height:25, width:300, backgroundColor:'white', textAlign:'center'}}> <h3>{title}</h3></div>
+       <XYPlot height = {300} width={300} style={{backgroundColor:'white'}}
+       yType="linear"
+       xType="ordinal"
+
+       >
+
+
          <HorizontalGridLines />
          <VerticalGridLines />
-         <XAxis />
+         <XAxis tickLabelAngle={75} tickPadding={30}/>
          <YAxis />
-        <BarSeries data={barData} />
+        <VerticalBarSeries  data={barData} />
        </XYPlot>
     </div>
 
 
+
   )
 }
+
+export default HistoChart

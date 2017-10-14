@@ -4,15 +4,15 @@
     "Title": "Las Vegas Strip mass shooting",
     "Location": "Las Vegas, NV",
     "Date": "10/1/2017",
-    "Summary": "Stephen Paddack fired thousands of bullet rounds using legally bought guns and legal modifacations(bump stock) onto a country music concert from the 32nd floor of the mandalay bay hotel",
+    "Summary": "NA",
     "Fatalities": 58,
-    "Injured": 515,
-    "Total victims": 573,
+    "Injured": 527,
+    "Total victims": 585,
     "Mental Health Issues": "Unclear",
-    "Race": "NA",
-    "Gender": "NA",
-    "Latitude": 36.0919,
-    "Longitude": -115.1752
+    "Race": "White",
+    "Gender": "M",
+    "Latitude": 36.181271,
+    "Longitude": -115.134132
   },
   {
     "S#": 2,
@@ -182,7 +182,7 @@
   {
     "S#": 13,
     "Title": "Forestville, Maryland Drive-by",
-    "Location": "42486,",
+    "Location": "NA",
     "Date": "4/26/2016",
     "Summary": "Shooter shot from his car at people standing on the street at 1:30 AM. Police don't believe the woman who died was the target, and do not believe the shooting was random.",
     "Fatalities": 1,
@@ -197,7 +197,7 @@
   {
     "S#": 14,
     "Title": "Halifax County, VA",
-    "Location": "42484,",
+    "Location": "NA",
     "Date": "4/24/2016",
     "Summary": "Male shooter fired into crown when a deputy police tried, unsuccessfully to stop him. The deputy fired on the shooter and inured him.",
     "Fatalities": 0,
@@ -212,7 +212,7 @@
   {
     "S#": 15,
     "Title": "Tire-Slashing revenge escalation",
-    "Location": "42481,",
+    "Location": "NA",
     "Date": "4/21/2016",
     "Summary": "Shooter was angry over fact that rival families had been slashing each other's cars. Shooter fired into a block party and injured four.",
     "Fatalities": 0,
@@ -227,7 +227,7 @@
   {
     "S#": 16,
     "Title": "Chicago Rap video Shootout",
-    "Location": "42479,",
+    "Location": "NA",
     "Date": "4/19/2016",
     "Summary": "Group of young men were in a park at 2 in the morning when a male walked up and shot them. One fatality. Four injuries. Shooter is unknown.",
     "Fatalities": 1,
@@ -242,7 +242,7 @@
   {
     "S#": 17,
     "Title": "Texas family murder-suicide",
-    "Location": "42479,",
+    "Location": "NA",
     "Date": "4/19/2016",
     "Summary": "Man killed his wife and two young children before committing suicide. No explanation has been offered",
     "Fatalities": 4,
@@ -257,7 +257,7 @@
   {
     "S#": 18,
     "Title": "Alabama highway random shooting",
-    "Location": "42479,",
+    "Location": "NA",
     "Date": "4/19/2016",
     "Summary": "Shooter fired from his car at two different locations along a highway in rural Alabama. He didn't injure any at the first shootout, but injured four at the second. He was killed by police.",
     "Fatalities": 1,
@@ -272,7 +272,7 @@
   {
     "S#": 19,
     "Title": "Long Beach Street murder",
-    "Location": "42478,",
+    "Location": "NA",
     "Date": "4/18/2016",
     "Summary": "Group of men were standing at a street corner when someone came up and fired upon them. One man died, 3 injured. Nothing is known about the shooter.",
     "Fatalities": 0,
@@ -287,7 +287,7 @@
   {
     "S#": 20,
     "Title": "Albuquerque, NM House party shooting",
-    "Location": "42469,",
+    "Location": "NA",
     "Date": "4/9/2016",
     "Summary": "A Man shot four uninvited party guests who would not leave the party hosted by the shooter. He started firing when they broke windows and started kicking in the door.",
     "Fatalities": 0,
@@ -302,7 +302,7 @@
   {
     "S#": 21,
     "Title": "Memphis, TN gas station shooting",
-    "Location": "42469,",
+    "Location": "NA",
     "Date": "4/9/2016",
     "Summary": "Four people were shot below the waist at a gas station after an altercation broke out at a gas station.",
     "Fatalities": 0,
@@ -317,7 +317,7 @@
   {
     "S#": 22,
     "Title": "Chicago Birthday Party Bus Shooting",
-    "Location": "42467,",
+    "Location": "NA",
     "Date": "4/7/2016",
     "Summary": "Birthday party bus was dropping off party goers in South Shore Chicago when someone on the street started shooting at them. The bus driver drove off quickly protecting the targets. Unknown motivation. No suspects.",
     "Fatalities": 0,
@@ -332,7 +332,7 @@
   {
     "S#": 23,
     "Title": "Albuquerque, NM Family restaurant shooting",
-    "Location": "42461,",
+    "Location": "NA",
     "Date": "4/1/2016",
     "Summary": "The shooter killed two of his nephews at the restaurant they owned. He shot and injured his brother. Then killed himself.",
     "Fatalities": 3,
@@ -392,7 +392,7 @@
   {
     "S#": 27,
     "Title": "Greenhill, AL Family murder-suicide",
-    "Location": "42454,",
+    "Location": "NA",
     "Date": "3/25/2016",
     "Summary": "Husband murders his wife and injures his two sons at their home in rural Alabama, then commits suicide",
     "Fatalities": 2,
@@ -406,7 +406,7 @@
   },
   {
     "S#": 28,
-    "Title": "Sherman, Texas",
+    "Title": "Sherman, Texas Family Murder-Suicide",
     "Location": "Sherman, Texas",
     "Date": "3/21/2016",
     "Summary": "A man shot and killed his wife and two boys, then he turned the gun on himself.",
@@ -421,40 +421,10 @@
   },
   {
     "S#": 29,
-    "Title": "Sherman, TX Family murder-suicide",
-    "Location": "42450,",
-    "Date": "3/21/2016",
-    "Summary": "Husband murders his wife and two young children in Sherman, TX, then commits suicide",
-    "Fatalities": 4,
-    "Injured": 0,
-    "Total victims": 3,
-    "Mental Health Issues": "Unknown",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 33.635662,
-    "Longitude": -96.60888
-  },
-  {
-    "S#": 30,
-    "Title": "Louisville, Kentucky",
+    "Title": "Louisville, KY Family Murder-Suicide",
     "Location": "Louisville, Kentucky",
     "Date": "3/20/2016",
     "Summary": "A former soldier who fatally shot his wife and two children and set their house on fire before killing himself suffered from post-traumatic stress disorder following a military career that included a stint in Iraq.",
-    "Fatalities": 4,
-    "Injured": 0,
-    "Total victims": 3,
-    "Mental Health Issues": "Unknown",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 38.252665,
-    "Longitude": -85.758456
-  },
-  {
-    "S#": 31,
-    "Title": "Louisville, KY Family Murder-Suicide",
-    "Location": "42449,",
-    "Date": "3/20/2016",
-    "Summary": "Husband murders his wife and two children before committing suicide at their Kentucky home",
     "Fatalities": 4,
     "Injured": 0,
     "Total victims": 3,
@@ -465,7 +435,7 @@
     "Longitude": -85.758456
   },
   {
-    "S#": 32,
+    "S#": 30,
     "Title": "Plantation, Florida",
     "Location": "Plantation, Florida",
     "Date": "3/19/2016",
@@ -480,9 +450,9 @@
     "Longitude": -80.233104
   },
   {
-    "S#": 33,
+    "S#": 31,
     "Title": "Wetumpka Drive-by",
-    "Location": "42448,",
+    "Location": "Wetumpka, Alabama",
     "Date": "3/19/2016",
     "Summary": "Shooter fired 12 rounds from a semi-automatic handgun that left two dead and two critically injured in a Saturday afternoon drive-by in Wetumpka, Alabama.",
     "Fatalities": 2,
@@ -495,24 +465,9 @@
     "Longitude": -86.211913
   },
   {
-    "S#": 34,
-    "Title": "Spring Break Party shooting",
-    "Location": "42448,",
-    "Date": "3/19/2016",
-    "Summary": "Shooter fired into crowd at a spring break house party with over 400 people, killing one, and injuring four. No one provided any information about the shooter, who escaped.",
-    "Fatalities": 1,
-    "Injured": 4,
-    "Total victims": 5,
-    "Mental Health Issues": "Unknown",
-    "Race": "Unknown",
-    "Gender": "Unknown",
-    "Latitude": 26.127586,
-    "Longitude": -80.233104
-  },
-  {
-    "S#": 35,
+    "S#": 32,
     "Title": "Atlanta Nightclub shooting",
-    "Location": "42444,",
+    "Location": "NA",
     "Date": "3/15/2016",
     "Summary": "Two groups of people were asked to leave a nightclub when they started arguing. They were outside the club when they started shooting. Five people were injured.",
     "Fatalities": 0,
@@ -525,9 +480,9 @@
     "Longitude": -84.387982
   },
   {
-    "S#": 36,
+    "S#": 33,
     "Title": "Florida Family celebration ends in shooting",
-    "Location": "42442,",
+    "Location": "NA",
     "Date": "3/13/2016",
     "Summary": "Family was celebrating a birthday party when a group of 12 arrived. Fight broke out, four people shot.",
     "Fatalities": 0,
@@ -540,9 +495,9 @@
     "Longitude": -81.872308
   },
   {
-    "S#": 37,
+    "S#": 34,
     "Title": "Elberton, Georgia murder-suicide",
-    "Location": "42441,",
+    "Location": "NA",
     "Date": "3/12/2016",
     "Summary": "Domestic dispute led a man to shoot his girlfriend, kill her daughter, and injure a bystander who was trying to help the girlfriend",
     "Fatalities": 2,
@@ -555,9 +510,9 @@
     "Longitude": -82.867084
   },
   {
-    "S#": 38,
+    "S#": 35,
     "Title": "Trenton, NJ sidewalk shooting",
-    "Location": "42440,",
+    "Location": "NA",
     "Date": "3/11/2016",
     "Summary": "A group of women were arguing on a sidewalk outside of an apartment complex in Trenton, NJ when a black Acura pulled up. Two men got out. And one shot at the women, injuring five.",
     "Fatalities": 0,
@@ -570,9 +525,9 @@
     "Longitude": -74.742938
   },
   {
-    "S#": 39,
+    "S#": 36,
     "Title": "Detroit Drive-by",
-    "Location": "42440,",
+    "Location": "NA",
     "Date": "3/11/2016",
     "Summary": "Four men were sitting on a porch when a black SUV with three passengers drove by and opened fire in broad daylight. Two of the men died and two were injured. The SUV got away and there are no suspects",
     "Fatalities": 2,
@@ -585,7 +540,7 @@
     "Longitude": -83.045754
   },
   {
-    "S#": 40,
+    "S#": 37,
     "Title": "Pittsburgh, Pennsylvania",
     "Location": "Pittsburgh, Pennsylvania",
     "Date": "3/9/2016",
@@ -600,9 +555,9 @@
     "Longitude": -79.995886
   },
   {
-    "S#": 41,
+    "S#": 38,
     "Title": "Wilkinsburg BBQ cookout shootout",
-    "Location": "42438,",
+    "Location": "NA",
     "Date": "3/9/2016",
     "Summary": "A family was having a cookout in the backyard of a house when two gunmen came and started shooting. There is one suspected target, but 5 people were killed, including one pregnant woman. The two gunmen fled the scene and have not been identified.",
     "Fatalities": 5,
@@ -615,7 +570,7 @@
     "Longitude": -79.881994
   },
   {
-    "S#": 42,
+    "S#": 39,
     "Title": "Kansas City, Kansas",
     "Location": "Kansas City, Kansas",
     "Date": "3/7/2016",
@@ -630,9 +585,9 @@
     "Longitude": -94.627464
   },
   {
-    "S#": 43,
+    "S#": 40,
     "Title": "Lafayette, LA drive by",
-    "Location": "42436,",
+    "Location": "NA",
     "Date": "3/7/2016",
     "Summary": "Four people shot with non-life-threatening injuries during a drive-by on MLK boulevard in Lafayette, LA. There were multiple shooters in the Ford f-150 truck, truck fled the scene. No leads.",
     "Fatalities": 0,
@@ -645,9 +600,9 @@
     "Longitude": -92.019843
   },
   {
-    "S#": 44,
+    "S#": 41,
     "Title": "Kansas City Home Invasion",
-    "Location": "42436,",
+    "Location": "NA",
     "Date": "3/7/2016",
     "Summary": "Shooter killed four people at his next door neighbors house. He fled the scene, but was captured the next day, hiding in a ditch. It is seen as a random act.",
     "Fatalities": 4,
@@ -660,24 +615,9 @@
     "Longitude": -94.627464
   },
   {
-    "S#": 45,
-    "Title": "Chelsea, Massachusetts",
-    "Location": "Chelsea, Massachusetts",
-    "Date": "3/6/2016",
-    "Summary": "The shooting happened early Sunday morning during a party in a vacant apartment. The shooter pened fire with one gun at a party of about 50 people in an vacant, three-room apartment. A 19-year-old Chelsea resident was was killed in a shooting that wounded five other teens and a 22-year-old.",
-    "Fatalities": 1,
-    "Injured": 6,
-    "Total victims": 7,
-    "Mental Health Issues": "Unknown",
-    "Race": "Unknown",
-    "Gender": "Male",
-    "Latitude": 42.391764,
-    "Longitude": -71.032828
-  },
-  {
-    "S#": 46,
+    "S#": 42,
     "Title": "Chelsea, MA empty apartment party shooting",
-    "Location": "42435,",
+    "Location": "Chelsea, Massachusetts",
     "Date": "3/6/2016",
     "Summary": "Shooter fired upon party of ~50 people at an empty apartment in Chelsea, MA. 1 dead. 6 wounded. Shooters step brother was among those shot",
     "Fatalities": 1,
@@ -690,9 +630,9 @@
     "Longitude": -71.032828
   },
   {
-    "S#": 47,
+    "S#": 43,
     "Title": "Roswell, GA Hookah shootout",
-    "Location": "42435,",
+    "Location": "NA",
     "Date": "3/6/2016",
     "Summary": "Altercation in a hookah bar led a group of seven people to leave in a mini-van. They were followed. When the car stopped, the shooter fired upon the car. Four of the seven sustained non-life-threatening injuries.",
     "Fatalities": 0,
@@ -705,9 +645,9 @@
     "Longitude": -84.361556
   },
   {
-    "S#": 48,
+    "S#": 44,
     "Title": "Wichita Nightclub shooting",
-    "Location": "42434,",
+    "Location": "NA",
     "Date": "3/5/2016",
     "Summary": "Altercation led to group of people getting kicked out of a club. Shooting took place around 1am outside the club. Four injured.",
     "Fatalities": 0,
@@ -720,9 +660,9 @@
     "Longitude": -97.330053
   },
   {
-    "S#": 49,
+    "S#": 45,
     "Title": "Detroit Strip Club Shootout",
-    "Location": "42428,",
+    "Location": "NA",
     "Date": "2/28/2016",
     "Summary": "Man apparently inappropriately touched a stripper. He was asked to leave. He waited outside, then shot the stripper and four other people.",
     "Fatalities": 0,
@@ -735,9 +675,9 @@
     "Longitude": -83.045754
   },
   {
-    "S#": 50,
+    "S#": 46,
     "Title": "Riverside restaurant shooting",
-    "Location": "42428,",
+    "Location": "NA",
     "Date": "2/28/2016",
     "Summary": "Shooter fired upon group of people in a restaurant parking lot",
     "Fatalities": 1,
@@ -750,7 +690,7 @@
     "Longitude": -117.48548
   },
   {
-    "S#": 51,
+    "S#": 47,
     "Title": "Woodbridge, Virginia",
     "Location": "Woodbridge,  Virginia",
     "Date": "2/27/2016",
@@ -765,7 +705,7 @@
     "Longitude": -77.3524
   },
   {
-    "S#": 52,
+    "S#": 48,
     "Title": "Belfair, Washington",
     "Location": "Belfair, Washington",
     "Date": "2/26/2016",
@@ -780,7 +720,7 @@
     "Longitude": -122.931
   },
   {
-    "S#": 53,
+    "S#": 49,
     "Title": "Excel Industries mass shooting",
     "Location": "Hesston, Kansas",
     "Date": "2/25/2016",
@@ -795,7 +735,7 @@
     "Longitude": -97.425226
   },
   {
-    "S#": 54,
+    "S#": 50,
     "Title": "Hesston, Kansas",
     "Location": "Hesston, Kansas",
     "Date": "2/25/2016",
@@ -810,9 +750,9 @@
     "Longitude": -97.4268
   },
   {
-    "S#": 55,
+    "S#": 51,
     "Title": "Belfair, WA Family murder-suicide",
-    "Location": "42425,",
+    "Location": "NA",
     "Date": "2/25/2016",
     "Summary": "Man killed wife, two kids, and neighbor before calling the cops to tell them he did something bad. They fired tear gas to get him outside. He came out and shot himself in the head.",
     "Fatalities": 5,
@@ -825,24 +765,9 @@
     "Longitude": -122.826946
   },
   {
-    "S#": 56,
-    "Title": "Glendale, Arizona",
-    "Location": "Glendale, Arizona",
-    "Date": "2/23/2016",
-    "Summary": "Five family members are dead after the son opened fire at their house on Tuesday morning. The shooter killed his father, his mother, his 18-year-old sister, and his 6-year-old sister. Police fatally shot the  shooter after a confrontation inside the home.",
-    "Fatalities": 5,
-    "Injured": 0,
-    "Total victims": 4,
-    "Mental Health Issues": "Yes",
-    "Race": "Two or more races",
-    "Gender": "Male",
-    "Latitude": 33.5927,
-    "Longitude": -112.163
-  },
-  {
-    "S#": 57,
+    "S#": 52,
     "Title": "Arizona Family Murder",
-    "Location": "42423,",
+    "Location": "Glendale, Arizona",
     "Date": "2/23/2016",
     "Summary": "Son shot his parents and two sisters in their Phoenix home. Police arrive because the house was on fire. Police shot and killed the shooter.",
     "Fatalities": 5,
@@ -855,9 +780,9 @@
     "Longitude": -112.074037
   },
   {
-    "S#": 58,
+    "S#": 53,
     "Title": "Missouri Highway shooting",
-    "Location": "42421,",
+    "Location": "NA",
     "Date": "2/21/2016",
     "Summary": "Car was fired upon from a stolen Mercedes on the interstate in Hazelwood, MO. One woman died. 3 Injured.",
     "Fatalities": 1,
@@ -870,9 +795,9 @@
     "Longitude": -90.370949
   },
   {
-    "S#": 59,
+    "S#": 54,
     "Title": "Houston Drive-by",
-    "Location": "42421,",
+    "Location": "NA",
     "Date": "2/21/2016",
     "Summary": "Group of people was fired upon by an unknown number of people in a dark SUV and a white Ford Truck. Five people, including a baby, were injured.",
     "Fatalities": 0,
@@ -885,7 +810,7 @@
     "Longitude": -95.369803
   },
   {
-    "S#": 60,
+    "S#": 55,
     "Title": "Kalamazoo shooting spree",
     "Location": "Kalamazoo County, Michigan",
     "Date": "2/20/2016",
@@ -900,7 +825,7 @@
     "Longitude": -85.6779
   },
   {
-    "S#": 61,
+    "S#": 56,
     "Title": "Iuka, Mississippi",
     "Location": "Iuka, Mississippi",
     "Date": "2/20/2016",
@@ -915,24 +840,9 @@
     "Longitude": -88.1383
   },
   {
-    "S#": 62,
-    "Title": "Kalamazoo, Michigan",
-    "Location": "Kalamazoo, Michigan",
-    "Date": "2/20/2016",
-    "Summary": "On Saturday evening of February 20, 2016, the gunman shot eight people in three different parts of the county. For nearly five hours Saturday, the shooter drove from one target to another, gunning down victims at random. And in between the shootings, he apparently picked up passengers for Uber.",
-    "Fatalities": 6,
-    "Injured": 2,
-    "Total victims": 8,
-    "Mental Health Issues": "Unknown",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 42.2354,
-    "Longitude": -85.676
-  },
-  {
-    "S#": 63,
+    "S#": 57,
     "Title": "Florida Hookah Bar Shooting",
-    "Location": "42420,",
+    "Location": "NA",
     "Date": "2/20/2016",
     "Summary": "Argument led to gun shots in the parking lot outside of a hookah bar in Tampa, Florida",
     "Fatalities": 1,
@@ -945,9 +855,9 @@
     "Longitude": -82.457178
   },
   {
-    "S#": 64,
+    "S#": 58,
     "Title": "Kalamazoo Uber Driver Spree Killing",
-    "Location": "42420,",
+    "Location": "NA",
     "Date": "2/20/2016",
     "Summary": "An Uber driver fired upon people in three locations over the course of about 6 hours.",
     "Fatalities": 6,
@@ -960,9 +870,9 @@
     "Longitude": -85.587229
   },
   {
-    "S#": 65,
+    "S#": 59,
     "Title": "Vallejo, CA car shooting",
-    "Location": "42419,",
+    "Location": "NA",
     "Date": "2/19/2016",
     "Summary": "Two suspects shot at a car and killed one person outright, and the second victim died in the hospital. Two others injured. No leads on suspects.",
     "Fatalities": 2,
@@ -975,9 +885,9 @@
     "Longitude": -122.256637
   },
   {
-    "S#": 66,
+    "S#": 60,
     "Title": "Michigan school shooting",
-    "Location": "42409,",
+    "Location": "NA",
     "Date": "2/9/2016",
     "Summary": "Shooter was a part of a fight outside of a high school gym. He fired at a crowd, injuring three. He fled the scene and was confronted by a police officer. When he wouldn't drop his weapon, the police officer shot and injured him.",
     "Fatalities": 0,
@@ -990,7 +900,7 @@
     "Longitude": -86.238946
   },
   {
-    "S#": 67,
+    "S#": 61,
     "Title": "Orlando, Florida",
     "Location": "Orlando, Florida",
     "Date": "2/7/2016",
@@ -1005,9 +915,9 @@
     "Longitude": -81.4646
   },
   {
-    "S#": 68,
+    "S#": 62,
     "Title": "Nightclub fight turns into shootout",
-    "Location": "42407,",
+    "Location": "NA",
     "Date": "2/7/2016",
     "Summary": "Two groups of people fired at each other after a fight broke out outside of the Mexican Village Nightclub in Rochester, NY",
     "Fatalities": 1,
@@ -1020,9 +930,9 @@
     "Longitude": -77.610922
   },
   {
-    "S#": 69,
+    "S#": 63,
     "Title": "Tampa, FL Strip club shooting",
-    "Location": "42406,",
+    "Location": "NA",
     "Date": "2/6/2016",
     "Summary": "Fighting broke out in a strip club when an unknown shooter starting firing. One person died on the scene, and one died later. Six were injured.",
     "Fatalities": 2,
@@ -1035,9 +945,9 @@
     "Longitude": -82.457178
   },
   {
-    "S#": 70,
+    "S#": 64,
     "Title": "Los Angeles, CA street shooting",
-    "Location": "42406,",
+    "Location": "NA",
     "Date": "2/6/2016",
     "Summary": "Police were called to a street to investigate an assault case. One hispanic man lay dead on the street. Two other adult males, and a young female were injured.",
     "Fatalities": 1,
@@ -1050,9 +960,9 @@
     "Longitude": -118.243685
   },
   {
-    "S#": 71,
+    "S#": 65,
     "Title": "Texas teen commits family murder suicide",
-    "Location": "42406,",
+    "Location": "NA",
     "Date": "2/6/2016",
     "Summary": "19-year-old male kills his mother and two neighbors before killing himself. Motive is unclear.",
     "Fatalities": 4,
@@ -1065,9 +975,9 @@
     "Longitude": -99.786168
   },
   {
-    "S#": 72,
+    "S#": 66,
     "Title": "New Orleans gas station shoot-out",
-    "Location": "42400,",
+    "Location": "NA",
     "Date": "1/31/2016",
     "Summary": "Altercation broke out at a gas station in New Orleans, when the shooter shot and injured 3 people. One of the victims returned fire and injured the instigator.",
     "Fatalities": 0,
@@ -1080,9 +990,9 @@
     "Longitude": -90.071532
   },
   {
-    "S#": 73,
+    "S#": 67,
     "Title": "Glendale, AZ House Party shooting",
-    "Location": "42399,",
+    "Location": "NA",
     "Date": "1/30/2016",
     "Summary": "Altercation broke out at a house party. A group of five hispanics were asked to leave. They got in a car, and as they drove away, opened fire on the house.",
     "Fatalities": 3,
@@ -1095,9 +1005,9 @@
     "Longitude": -112.185987
   },
   {
-    "S#": 74,
+    "S#": 68,
     "Title": "Caroline County, VA Family Murder Suicide",
-    "Location": "42398,",
+    "Location": "NA",
     "Date": "1/29/2016",
     "Summary": "42-year-old husband murders wife, shoots two young family members, then shoots himself in the head.",
     "Fatalities": 2,
@@ -1110,7 +1020,7 @@
     "Longitude": -77.286488
   },
   {
-    "S#": 75,
+    "S#": 69,
     "Title": "Chesapeake, Virginia",
     "Location": "Chesapeake, Virginia",
     "Date": "1/27/2016",
@@ -1125,24 +1035,9 @@
     "Longitude": -76.3293
   },
   {
-    "S#": 76,
-    "Title": "Chesapeake, VA Family Murder Suicide",
-    "Location": "42396,",
-    "Date": "1/27/2016",
-    "Summary": "26-year-old killed his Mother, Father, Grandmother, brother, and sister before killing himself in the home of his Grandmother.",
-    "Fatalities": 6,
-    "Injured": 0,
-    "Total victims": 5,
-    "Mental Health Issues": "Unknown",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 36.768209,
-    "Longitude": -76.287493
-  },
-  {
-    "S#": 77,
+    "S#": 70,
     "Title": "Perris, CA Mexican restaurant shooting",
-    "Location": "42394,",
+    "Location": "NA",
     "Date": "1/25/2016",
     "Summary": "Very little is known about the case. Cops were called to a Mexican restaurant. 1 person was pronounced dead at the scene. 4 others were taken to a hospital.",
     "Fatalities": 1,
@@ -1155,9 +1050,9 @@
     "Longitude": -117.228648
   },
   {
-    "S#": 78,
+    "S#": 71,
     "Title": "Florida family murder",
-    "Location": "42392,",
+    "Location": "NA",
     "Date": "1/23/2016",
     "Summary": "A young man shot his mother, step-father, and his ex-girlfriend's boyfriend",
     "Fatalities": 3,
@@ -1170,9 +1065,9 @@
     "Longitude": -86.572799
   },
   {
-    "S#": 79,
+    "S#": 72,
     "Title": "Los Angeles Drive-by",
-    "Location": "42392,",
+    "Location": "NA",
     "Date": "1/23/2016",
     "Summary": "Group of people was standing outside of a Liquor store on Avalon boulevard in South Los Angeles. A car drove by and fired an AK-47, killing 1 and wounding 3.",
     "Fatalities": 2,
@@ -1185,9 +1080,9 @@
     "Longitude": -118.243685
   },
   {
-    "S#": 80,
+    "S#": 73,
     "Title": "Gloucester County, VA, House Party",
-    "Location": "42386,",
+    "Location": "NA",
     "Date": "1/17/2016",
     "Summary": "A young woman threw a house party for her birthday. It got very crowded. The shooter came and shot four people, killing one. There is some disagreement about his relation to the rest of the people at the party",
     "Fatalities": 1,
@@ -1200,9 +1095,9 @@
     "Longitude": -76.458559
   },
   {
-    "S#": 81,
+    "S#": 74,
     "Title": "Wilmington, DE robbery",
-    "Location": "42380,",
+    "Location": "NA",
     "Date": "1/11/2016",
     "Summary": "Two men forcefully entered a house, and started shooting the people inside. One of the robbers was killed. Four other people injured.",
     "Fatalities": 1,
@@ -1215,9 +1110,9 @@
     "Longitude": -75.539788
   },
   {
-    "S#": 82,
+    "S#": 75,
     "Title": "Roadside in Memphis, Tennessee",
-    "Location": "42376,",
+    "Location": "NA",
     "Date": "1/7/2016",
     "Summary": "A woman flagged down a car to help her with her car troubles at the side of the road. An 18-year-old got out to help. The two suspects got out of another car and fired on the scene.",
     "Fatalities": 1,
@@ -1230,9 +1125,9 @@
     "Longitude": -90.04898
   },
   {
-    "S#": 83,
+    "S#": 76,
     "Title": "Residence in Lakeland, Florida",
-    "Location": "42375,",
+    "Location": "NA",
     "Date": "1/6/2016",
     "Summary": "Two men arrived at the house of a drug dealer and killed three people and critically injured one more.",
     "Fatalities": 3,
@@ -1245,7 +1140,7 @@
     "Longitude": -81.949804
   },
   {
-    "S#": 84,
+    "S#": 77,
     "Title": "Omaha, Nebraska",
     "Location": "Omaha, Nebraska",
     "Date": "12/6/2015",
@@ -1260,22 +1155,7 @@
     "Longitude": -96.0814
   },
   {
-    "S#": 85,
-    "Title": "San Bernardino mass shooting",
-    "Location": "San Bernardino, California",
-    "Date": "12/2/2015",
-    "Summary": "Syed Rizwan Farook left a Christmas party held at Inland Regional Center, later returning with Tashfeen Malik and the two opened fire, killing 14 and wounding 21, ten critically. The two were later killed by police as they fled in an SUV.",
-    "Fatalities": 14,
-    "Injured": 21,
-    "Total victims": 35,
-    "Mental Health Issues": "Unclear",
-    "Race": "Other",
-    "Gender": "M/F",
-    "Latitude": 34.13973,
-    "Longitude": -117.29424
-  },
-  {
-    "S#": 86,
+    "S#": 79,
     "Title": "San Bernardino, California",
     "Location": "San Bernardino, California",
     "Date": "12/2/2015",
@@ -1290,7 +1170,7 @@
     "Longitude": -117.2942444
   },
   {
-    "S#": 87,
+    "S#": 80,
     "Title": "Planned Parenthood clinic",
     "Location": "Colorado Springs, Colorado",
     "Date": "11/27/2015",
@@ -1305,22 +1185,7 @@
     "Longitude": -104.8489
   },
   {
-    "S#": 88,
-    "Title": "Colorado Springs, Colorado",
-    "Location": "Colorado Springs, Colorado",
-    "Date": "11/27/2015",
-    "Summary": "On Friday of November 27, 2015, the shooter opened fire inside a Planned Parenthood clinic in Colorado Springs. Three people were killed and nine others were hurt. The shooter surrendered to officers after a five-hour ordeal Friday in which he fired randomly at people in the clinic and roamed the halls shooting through walls with an assault-style rifle.",
-    "Fatalities": 3,
-    "Injured": 9,
-    "Total victims": 12,
-    "Mental Health Issues": "Unknown",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 38.86730659,
-    "Longitude": -104.7572279
-  },
-  {
-    "S#": 89,
+    "S#": 81,
     "Title": "Columbus, Ohio",
     "Location": "Columbus, Ohio",
     "Date": "11/23/2015",
@@ -1335,7 +1200,7 @@
     "Longitude": -82.98904135
   },
   {
-    "S#": 90,
+    "S#": 82,
     "Title": "Minneapolis, Minnesota",
     "Location": "Minneapolis, Minnesota",
     "Date": "11/23/2015",
@@ -1350,7 +1215,7 @@
     "Longitude": -93.26783687
   },
   {
-    "S#": 91,
+    "S#": 83,
     "Title": "Tennessee Colony, Texas",
     "Location": "Tennessee Colony, Texas",
     "Date": "11/15/2015",
@@ -1365,7 +1230,7 @@
     "Longitude": -95.8069
   },
   {
-    "S#": 92,
+    "S#": 84,
     "Title": "Jacksonville, Florida",
     "Location": "Jacksonville, Florida",
     "Date": "11/13/2015",
@@ -1380,7 +1245,7 @@
     "Longitude": -81.67576993
   },
   {
-    "S#": 93,
+    "S#": 85,
     "Title": "Waycross, GA",
     "Location": "Waycross, Georgia",
     "Date": "11/7/2015",
@@ -1395,7 +1260,7 @@
     "Longitude": -82.35793452
   },
   {
-    "S#": 94,
+    "S#": 86,
     "Title": "Oakland, Maine",
     "Location": "Oakland, Maine",
     "Date": "11/4/2015",
@@ -1410,22 +1275,7 @@
     "Longitude": -69.70782299
   },
   {
-    "S#": 95,
-    "Title": "Colorado Springs shooting rampage",
-    "Location": "Colorado Springs, Colorado",
-    "Date": "10/31/2015",
-    "Summary": "Noah Harpham, 33, shot three people before dead in Colorado Springs before police killed him in a shootout.",
-    "Fatalities": 3,
-    "Injured": 0,
-    "Total victims": 3,
-    "Mental Health Issues": "Unclear",
-    "Race": "White",
-    "Gender": "M",
-    "Latitude": 38.833882,
-    "Longitude": -104.821363
-  },
-  {
-    "S#": 96,
+    "S#": 87,
     "Title": "Colorado Springs",
     "Location": "Colorado Springs, Colorado",
     "Date": "10/31/2015",
@@ -1440,7 +1290,7 @@
     "Longitude": -104.7572279
   },
   {
-    "S#": 97,
+    "S#": 88,
     "Title": "Colerain Township, Ohio",
     "Location": "Colerain Township, Ohio",
     "Date": "10/21/2015",
@@ -1455,7 +1305,7 @@
     "Longitude": -84.599655
   },
   {
-    "S#": 98,
+    "S#": 89,
     "Title": "Northern Arizona University at Flagstaff Campus",
     "Location": "Flagstaff, Arizona",
     "Date": "10/9/2015",
@@ -1470,22 +1320,7 @@
     "Longitude": -111.6585435
   },
   {
-    "S#": 99,
-    "Title": "Umpqua Community College shooting",
-    "Location": "Roseburg, Oregon",
-    "Date": "10/1/2015",
-    "Summary": "26-year-old Chris Harper Mercer opened fire at Umpqua Community College in southwest Oregon. The gunman shot himself to death after being wounded in a shootout with police.",
-    "Fatalities": 9,
-    "Injured": 9,
-    "Total victims": 18,
-    "Mental Health Issues": "Unclear",
-    "Race": "Other",
-    "Gender": "Male",
-    "Latitude": 43.291178,
-    "Longitude": -123.334899
-  },
-  {
-    "S#": 100,
+    "S#": 90,
     "Title": "Umpqua Community College",
     "Location": "Roseburg, Oregon",
     "Date": "10/1/2015",
@@ -1500,7 +1335,7 @@
     "Longitude": -123.3522367
   },
   {
-    "S#": 101,
+    "S#": 91,
     "Title": "Inglis, Florida",
     "Location": "Inglis, Florida",
     "Date": "10/1/2015",
@@ -1515,7 +1350,7 @@
     "Longitude": -82.65919302
   },
   {
-    "S#": 102,
+    "S#": 92,
     "Title": "Hill Haven Event Center (Formerly Club CJ's)",
     "Location": "Greenville, Georgia",
     "Date": "9/27/2015",
@@ -1530,7 +1365,7 @@
     "Longitude": -84.7143335
   },
   {
-    "S#": 103,
+    "S#": 93,
     "Title": "Platte, South Dakota",
     "Location": "Platte, South Dakota",
     "Date": "9/17/2015",
@@ -1545,7 +1380,7 @@
     "Longitude": -98.84357239
   },
   {
-    "S#": 104,
+    "S#": 94,
     "Title": "Clearbrook (Greenwood), Minnesota",
     "Location": "Clearbrook (Greenwood), Minnesota",
     "Date": "9/10/2015",
@@ -1560,7 +1395,7 @@
     "Longitude": -95.42844094
   },
   {
-    "S#": 105,
+    "S#": 95,
     "Title": "Bristol, Tennessee",
     "Location": "Bristol, Tennessee",
     "Date": "8/29/2015",
@@ -1575,7 +1410,7 @@
     "Longitude": -82.21429551
   },
   {
-    "S#": 106,
+    "S#": 96,
     "Title": "Virginia WDBJ live TV interview shooting",
     "Location": "Roanoke, Virginia",
     "Date": "8/26/2015",
@@ -1590,7 +1425,7 @@
     "Longitude": -79.95816104
   },
   {
-    "S#": 107,
+    "S#": 97,
     "Title": "Parking lot near Boys and Girls Club",
     "Location": "Rochester, New York",
     "Date": "8/19/2015",
@@ -1605,7 +1440,7 @@
     "Longitude": -77.614337
   },
   {
-    "S#": 108,
+    "S#": 98,
     "Title": "Houston, Texas",
     "Location": "Houston, Texas",
     "Date": "8/8/2015",
@@ -1620,7 +1455,7 @@
     "Longitude": -95.36763856
   },
   {
-    "S#": 109,
+    "S#": 99,
     "Title": "Grand 16 Theatre, Louisiana",
     "Location": "Lafayette, Louisiana",
     "Date": "7/23/2015",
@@ -1635,7 +1470,7 @@
     "Longitude": -92.0316453
   },
   {
-    "S#": 110,
+    "S#": 100,
     "Title": "Suwanee",
     "Location": "Suwanee, Georgia",
     "Date": "7/22/2015",
@@ -1650,22 +1485,7 @@
     "Longitude": -84.06872262
   },
   {
-    "S#": 111,
-    "Title": "Chattanooga military recruitment center",
-    "Location": "Chattanooga, Tennessee",
-    "Date": "7/16/2015",
-    "Summary": "Kuwaiti-born Mohammod Youssuf Abdulazeez, 24, a naturalized US citizen, opened fire at a Naval reserve center, and then drove to a military recruitment office where he shot and killed four Marines and a Navy service member, and wounded a police officer and another military service member. He was then fatally shot in an exchange of gunfire with law enforcement officers responding to the attack.",
-    "Fatalities": 5,
-    "Injured": 2,
-    "Total victims": 7,
-    "Mental Health Issues": "Unclear",
-    "Race": "Other",
-    "Gender": "Male",
-    "Latitude": 35.047157,
-    "Longitude": -85.311819
-  },
-  {
-    "S#": 112,
+    "S#": 101,
     "Title": "Amnicola Training Center, Chattanooga",
     "Location": "Chattanooga, Tennessee",
     "Date": "7/16/2015",
@@ -1680,7 +1500,7 @@
     "Longitude": -85.23676751
   },
   {
-    "S#": 113,
+    "S#": 102,
     "Title": "River Forest",
     "Location": "River Forest, Illinois",
     "Date": "7/12/2015",
@@ -1695,7 +1515,7 @@
     "Longitude": -87.81941392
   },
   {
-    "S#": 114,
+    "S#": 103,
     "Title": "Boom Boom Room",
     "Location": "Morven, North Carolina",
     "Date": "6/20/2015",
@@ -1710,7 +1530,7 @@
     "Longitude": -79.9996781
   },
   {
-    "S#": 115,
+    "S#": 104,
     "Title": "Charleston Church Shooting",
     "Location": "Charleston, South Carolina",
     "Date": "6/17/2015",
@@ -1725,22 +1545,7 @@
     "Longitude": -79.933143
   },
   {
-    "S#": 116,
-    "Title": "Mother Emanuel AME Church",
-    "Location": "Charleston, South Carolina",
-    "Date": "6/17/2015",
-    "Summary": "Nine people ? three men and six women including the church's pastor ? were shot and killed during a prayer meeting at a church in Charleston, South Carolina.",
-    "Fatalities": 9,
-    "Injured": 0,
-    "Total victims": 9,
-    "Mental Health Issues": "Unknown",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 32.8129729,
-    "Longitude": -79.96693995
-  },
-  {
-    "S#": 117,
+    "S#": 105,
     "Title": "Miami Gardens",
     "Location": "Miami Gardens, Florida",
     "Date": "6/16/2015",
@@ -1755,7 +1560,7 @@
     "Longitude": -80.24253243
   },
   {
-    "S#": 118,
+    "S#": 106,
     "Title": "Trestle Trail bridge shooting",
     "Location": "Menasha, Wisconsin",
     "Date": "6/11/2015",
@@ -1770,7 +1575,7 @@
     "Longitude": -88.446497
   },
   {
-    "S#": 119,
+    "S#": 107,
     "Title": "Deer Lodge",
     "Location": "Deer Lodge, Montana",
     "Date": "6/7/2015",
@@ -1785,7 +1590,7 @@
     "Longitude": -112.7329333
   },
   {
-    "S#": 120,
+    "S#": 108,
     "Title": "Cleveland",
     "Location": "Cleveland, Ohio",
     "Date": "5/31/2015",
@@ -1800,7 +1605,7 @@
     "Longitude": -81.68051502
   },
   {
-    "S#": 121,
+    "S#": 109,
     "Title": "Conyers",
     "Location": "Conyers, Georgia",
     "Date": "5/31/2015",
@@ -1815,7 +1620,7 @@
     "Longitude": -84.02688527
   },
   {
-    "S#": 122,
+    "S#": 110,
     "Title": "Club Maxey's",
     "Location": "Decatur, Illinois",
     "Date": "5/25/2015",
@@ -1830,7 +1635,7 @@
     "Longitude": -88.93346458
   },
   {
-    "S#": 123,
+    "S#": 111,
     "Title": "Tucson",
     "Location": "Tucson, Arizona",
     "Date": "5/12/2015",
@@ -1845,7 +1650,7 @@
     "Longitude": -110.9677647
   },
   {
-    "S#": 124,
+    "S#": 112,
     "Title": "Annual motorcycle event in Newark",
     "Location": "Newark, New Jersey",
     "Date": "5/10/2015",
@@ -1860,7 +1665,7 @@
     "Longitude": -74.18417699
   },
   {
-    "S#": 125,
+    "S#": 113,
     "Title": "Fox Cities Trestle Trail bridge over Little Lake Butte des Morts",
     "Location": "Menasha, Wisconsin",
     "Date": "5/3/2015",
@@ -1875,7 +1680,7 @@
     "Longitude": -88.4484585
   },
   {
-    "S#": 126,
+    "S#": 114,
     "Title": "Milwaukee",
     "Location": "Milwaukee, Wisconsin",
     "Date": "5/1/2015",
@@ -1890,7 +1695,7 @@
     "Longitude": -87.96724385
   },
   {
-    "S#": 127,
+    "S#": 115,
     "Title": "Gates Pub",
     "Location": "Gates, New York",
     "Date": "4/25/2015",
@@ -1905,7 +1710,7 @@
     "Longitude": -77.69300856
   },
   {
-    "S#": 128,
+    "S#": 116,
     "Title": "Killeen",
     "Location": "Killeen, Texas",
     "Date": "4/21/2015",
@@ -1920,7 +1725,7 @@
     "Longitude": -97.73392317
   },
   {
-    "S#": 129,
+    "S#": 117,
     "Title": "Phoenix",
     "Location": "Phoenix, Arizona",
     "Date": "4/16/2015",
@@ -1935,7 +1740,7 @@
     "Longitude": -112.0904854
   },
   {
-    "S#": 130,
+    "S#": 118,
     "Title": "Rome",
     "Location": "Rome, Georgia",
     "Date": "4/7/2015",
@@ -1950,7 +1755,7 @@
     "Longitude": -85.18822422
   },
   {
-    "S#": 131,
+    "S#": 119,
     "Title": "Indianapolis",
     "Location": "Indianapolis, Indiana",
     "Date": "4/5/2015",
@@ -1965,7 +1770,7 @@
     "Longitude": -86.14635359
   },
   {
-    "S#": 132,
+    "S#": 120,
     "Title": "Daytona Beach",
     "Location": "Daytona Beach, Florida",
     "Date": "4/3/2015",
@@ -1980,7 +1785,7 @@
     "Longitude": -81.10173014
   },
   {
-    "S#": 133,
+    "S#": 121,
     "Title": "Tulsa",
     "Location": "Tulsa, Oklahoma",
     "Date": "3/30/2015",
@@ -1995,7 +1800,7 @@
     "Longitude": -95.91316117
   },
   {
-    "S#": 134,
+    "S#": 122,
     "Title": "Panama City Beach",
     "Location": "Panama City Beach, Florida",
     "Date": "3/28/2015",
@@ -2010,7 +1815,7 @@
     "Longitude": -85.87371301
   },
   {
-    "S#": 135,
+    "S#": 123,
     "Title": "Little Water",
     "Location": "Little Water, New Mexico",
     "Date": "3/19/2015",
@@ -2025,7 +1830,7 @@
     "Longitude": -108.723281
   },
   {
-    "S#": 136,
+    "S#": 124,
     "Title": "Mesa",
     "Location": "Mesa, Arizona",
     "Date": "3/18/2015",
@@ -2040,7 +1845,7 @@
     "Longitude": -111.8163202
   },
   {
-    "S#": 137,
+    "S#": 125,
     "Title": "Cottonwood",
     "Location": "Cottonwood, Alabama",
     "Date": "3/15/2015",
@@ -2055,7 +1860,7 @@
     "Longitude": -85.30100084
   },
   {
-    "S#": 138,
+    "S#": 126,
     "Title": "Brookhaven",
     "Location": "Brookhaven, Mississippi",
     "Date": "3/13/2015",
@@ -2070,7 +1875,7 @@
     "Longitude": -90.44323475
   },
   {
-    "S#": 139,
+    "S#": 127,
     "Title": "Tarboro",
     "Location": "Tarboro, North Carolina",
     "Date": "2/28/2015",
@@ -2085,7 +1890,7 @@
     "Longitude": -77.55639964
   },
   {
-    "S#": 140,
+    "S#": 128,
     "Title": "Birmingham's Washington Park",
     "Location": "Birmingham, Alabama",
     "Date": "2/27/2015",
@@ -2100,7 +1905,7 @@
     "Longitude": -86.79550448
   },
   {
-    "S#": 141,
+    "S#": 129,
     "Title": "Tyrone",
     "Location": "Tyrone, Missouri",
     "Date": "2/26/2015",
@@ -2115,7 +1920,7 @@
     "Longitude": -91.876583
   },
   {
-    "S#": 142,
+    "S#": 130,
     "Title": "Charlotte",
     "Location": "Charlotte, North Carolina",
     "Date": "2/24/2015",
@@ -2130,7 +1935,7 @@
     "Longitude": -80.836788
   },
   {
-    "S#": 143,
+    "S#": 131,
     "Title": "Clarkesville",
     "Location": "Clarkesville, Georgia",
     "Date": "2/22/2015",
@@ -2145,7 +1950,7 @@
     "Longitude": -83.52918091
   },
   {
-    "S#": 144,
+    "S#": 132,
     "Title": "Killeen",
     "Location": "Killeen, Texas",
     "Date": "2/22/2015",
@@ -2160,7 +1965,7 @@
     "Longitude": -97.73392317
   },
   {
-    "S#": 145,
+    "S#": 133,
     "Title": "Chapel Hill",
     "Location": "Chapel Hill, North Carolina",
     "Date": "2/10/2015",
@@ -2175,7 +1980,7 @@
     "Longitude": -79.03850407
   },
   {
-    "S#": 146,
+    "S#": 134,
     "Title": "Moon Lake",
     "Location": "New Port Richey, Florida",
     "Date": "2/9/2015",
@@ -2190,7 +1995,7 @@
     "Longitude": -82.71690259
   },
   {
-    "S#": 147,
+    "S#": 135,
     "Title": "Monroeville Macy's",
     "Location": "Monroeville, Pennsylvania",
     "Date": "2/7/2015",
@@ -2205,7 +2010,7 @@
     "Longitude": -79.76092565
   },
   {
-    "S#": 148,
+    "S#": 136,
     "Title": "Douglasville",
     "Location": "Douglasville, Georgia",
     "Date": "2/7/2015",
@@ -2220,7 +2025,7 @@
     "Longitude": -84.71564276
   },
   {
-    "S#": 149,
+    "S#": 137,
     "Title": "King, North Carolina",
     "Location": "King, North Carolina",
     "Date": "2/4/2015",
@@ -2235,7 +2040,7 @@
     "Longitude": -80.35501402
   },
   {
-    "S#": 150,
+    "S#": 138,
     "Title": "McAvan's Pub",
     "Location": "Syracuse, New York",
     "Date": "2/1/2015",
@@ -2250,7 +2055,7 @@
     "Longitude": -76.14376763
   },
   {
-    "S#": 151,
+    "S#": 139,
     "Title": "LaGrange",
     "Location": "LaGrange, Georgia",
     "Date": "1/28/2015",
@@ -2265,7 +2070,7 @@
     "Longitude": -85.0287065
   },
   {
-    "S#": 152,
+    "S#": 140,
     "Title": "Queens",
     "Location": "New York City, New York",
     "Date": "1/24/2015",
@@ -2280,7 +2085,7 @@
     "Longitude": -73.8720502
   },
   {
-    "S#": 153,
+    "S#": 141,
     "Title": "Omaha",
     "Location": "Omaha, Nebraska",
     "Date": "1/24/2015",
@@ -2295,7 +2100,7 @@
     "Longitude": -96.05381421
   },
   {
-    "S#": 154,
+    "S#": 142,
     "Title": "Moscow",
     "Location": "Moscow, Idaho",
     "Date": "1/10/2015",
@@ -2310,7 +2115,7 @@
     "Longitude": -116.9990042
   },
   {
-    "S#": 155,
+    "S#": 143,
     "Title": "Memphis",
     "Location": "Memphis, Tennessee",
     "Date": "1/1/2015",
@@ -2325,7 +2130,7 @@
     "Longitude": -89.97734924
   },
   {
-    "S#": 156,
+    "S#": 144,
     "Title": "Pennsburg, Souderton, Lansdale, Harleysville",
     "Location": "Pennsburg, Souderton, Lansdale, Harleysville, Pennsylvania",
     "Date": "12/15/2014",
@@ -2340,7 +2145,7 @@
     "Longitude": -75.49640881
   },
   {
-    "S#": 157,
+    "S#": 145,
     "Title": "Morgantown",
     "Location": "Morgantown, West Virginia",
     "Date": "12/1/2014",
@@ -2355,7 +2160,7 @@
     "Longitude": -79.94839325
   },
   {
-    "S#": 158,
+    "S#": 146,
     "Title": "Florida State University",
     "Location": "Tallahassee, Florida",
     "Date": "11/19/2014",
@@ -2370,22 +2175,7 @@
     "Longitude": -84.25264151
   },
   {
-    "S#": 159,
-    "Title": "Marysville-Pilchuck High School shooting",
-    "Location": "Marysville, Washington",
-    "Date": "10/24/2014",
-    "Summary": "Jaylen Fryberg, 15, using a .40-caliber Berretta, shot five \nstudents at Marysville High School, including two of his cousins and three friends, killing all but one. Fryberg arranged to meet them for lunch in the school cafeteria by text. Fryberg was reportedly well-liked at the school and there was not believed to be any ill-will between him and his victims. He committed suicide at the scene.",
-    "Fatalities": 5,
-    "Injured": 1,
-    "Total victims": 6,
-    "Mental Health Issues": "Unclear",
-    "Race": "Native American",
-    "Gender": "Male",
-    "Latitude": 48.050824,
-    "Longitude": -122.176918
-  },
-  {
-    "S#": 160,
+    "S#": 147,
     "Title": "Marysville-Pilchuck High School",
     "Location": "Marysville, Washington",
     "Date": "10/24/2014",
@@ -2400,7 +2190,7 @@
     "Longitude": -122.1359622
   },
   {
-    "S#": 161,
+    "S#": 148,
     "Title": "Albuquerque Auto Shop",
     "Location": "Albuquerque, New Mexico",
     "Date": "8/8/2014",
@@ -2415,7 +2205,7 @@
     "Longitude": -106.7791378
   },
   {
-    "S#": 162,
+    "S#": 149,
     "Title": "Bourbon Street New Orleans",
     "Location": "New Orleans, Louisiana",
     "Date": "6/29/2014",
@@ -2430,7 +2220,7 @@
     "Longitude": -89.93147412
   },
   {
-    "S#": 163,
+    "S#": 150,
     "Title": "Nellis Plaza",
     "Location": "Las Vegas, Nevada",
     "Date": "6/8/2014",
@@ -2445,7 +2235,7 @@
     "Longitude": -115.3264875
   },
   {
-    "S#": 164,
+    "S#": 151,
     "Title": "Seattle Pacific University",
     "Location": "Seattle, Washington",
     "Date": "6/5/2014",
@@ -2460,7 +2250,7 @@
     "Longitude": -122.323646
   },
   {
-    "S#": 165,
+    "S#": 152,
     "Title": "Isla Vista mass murder",
     "Location": "Santa Barbara, California",
     "Date": "5/23/2014",
@@ -2475,22 +2265,7 @@
     "Longitude": -119.859
   },
   {
-    "S#": 166,
-    "Title": "Isla Vista",
-    "Location": "Isla Vista, California",
-    "Date": "5/23/2014",
-    "Summary": "On the evening of May 23, 2014, a 22-year-old student and resident of Isla Vista stabbed two roommates and their friend to death in his apartment. He then drove to a sorority house in Isla Vista and attempted to enter the premises to no avail, and began shooting at a neighboring sorority's members, killing two and wounding another. He continued shooting between altercations with police throughout Isla Vista, killing another male student and wounding six more before committing suicide.",
-    "Fatalities": 7,
-    "Injured": 7,
-    "Total victims": 10,
-    "Mental Health Issues": "Yes",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 34.4145857,
-    "Longitude": -119.8581209
-  },
-  {
-    "S#": 167,
+    "S#": 153,
     "Title": "Kennesaw FedEx",
     "Location": "Kennesaw, Georgia",
     "Date": "4/29/2014",
@@ -2505,7 +2280,7 @@
     "Longitude": -84.61766831
   },
   {
-    "S#": 168,
+    "S#": 154,
     "Title": "Fort Hood shooting 2",
     "Location": "Fort Hood, Texas",
     "Date": "4/3/2014",
@@ -2520,7 +2295,7 @@
     "Longitude": -97.796012
   },
   {
-    "S#": 169,
+    "S#": 155,
     "Title": "Fort Hood",
     "Location": "Killeen, Texas",
     "Date": "4/2/2014",
@@ -2535,7 +2310,7 @@
     "Longitude": -97.73392317
   },
   {
-    "S#": 170,
+    "S#": 156,
     "Title": "San Francisco Tenderloin",
     "Location": "San Francisco, CA",
     "Date": "3/23/2014",
@@ -2550,22 +2325,7 @@
     "Longitude": -122.4424343
   },
   {
-    "S#": 171,
-    "Title": "Alturas tribal shooting",
-    "Location": "Alturas, California",
-    "Date": "2/20/2014",
-    "Summary": "Cherie Lash Rhoades, 44, opened fire at the Cedarville Rancheria Tribal Office and Community Center, killing four and wounding two. After running out of ammunition, Rhoades grabbed a butcher knife and stabbed another person.",
-    "Fatalities": 4,
-    "Injured": 2,
-    "Total victims": 6,
-    "Mental Health Issues": "Unknown",
-    "Race": "Native American",
-    "Gender": "Female",
-    "Latitude": 41.487104,
-    "Longitude": -120.542237
-  },
-  {
-    "S#": 172,
+    "S#": 157,
     "Title": "Cedarville Rancheria Tribe",
     "Location": "Alturas, California",
     "Date": "2/20/2014",
@@ -2580,7 +2340,7 @@
     "Longitude": -120.549091
   },
   {
-    "S#": 173,
+    "S#": 158,
     "Title": "Centennial Hill Bar & Grill",
     "Location": "Montgomery, Alabama",
     "Date": "12/28/2013",
@@ -2595,7 +2355,7 @@
     "Longitude": -86.26730242
   },
   {
-    "S#": 174,
+    "S#": 159,
     "Title": "Los Angeles International Airport (LAX)",
     "Location": "Los Angeles, California",
     "Date": "11/1/2013",
@@ -2610,7 +2370,7 @@
     "Longitude": -118.5399542
   },
   {
-    "S#": 175,
+    "S#": 160,
     "Title": "Sparks Middle School",
     "Location": "Sparks, Nevada",
     "Date": "10/21/2013",
@@ -2625,22 +2385,7 @@
     "Longitude": -119.748291
   },
   {
-    "S#": 176,
-    "Title": "Washington Navy Yard shooting",
-    "Location": "Washington, D.C.",
-    "Date": "9/16/2013",
-    "Summary": "Aaron Alexis, 34, a military veteran and contractor from Texas, opened fire in the Navy installation, killing 12 people and wounding 8 before being shot dead by police.",
-    "Fatalities": 12,
-    "Injured": 8,
-    "Total victims": 20,
-    "Mental Health Issues": "Yes",
-    "Race": "Black",
-    "Gender": "Male",
-    "Latitude": 38.874981,
-    "Longitude": -76.99453
-  },
-  {
-    "S#": 177,
+    "S#": 161,
     "Title": "Washington Navy Yard",
     "Location": "Washington D.C.",
     "Date": "9/16/2013",
@@ -2655,7 +2400,7 @@
     "Longitude": -77.01629717
   },
   {
-    "S#": 178,
+    "S#": 162,
     "Title": "Oklahoma City Residence",
     "Location": "Oklahoma City, Oklahoma",
     "Date": "8/14/2013",
@@ -2670,7 +2415,7 @@
     "Longitude": -97.5191631
   },
   {
-    "S#": 179,
+    "S#": 163,
     "Title": "Homes in Desoto and Dallas",
     "Location": "Dallas, Texas",
     "Date": "8/7/2013",
@@ -2685,7 +2430,7 @@
     "Longitude": -96.76631094
   },
   {
-    "S#": 180,
+    "S#": 164,
     "Title": "Ross Township Supervisor Council Meeting",
     "Location": "Salisbury , Pennsylvania",
     "Date": "8/5/2013",
@@ -2700,7 +2445,7 @@
     "Longitude": -79.08435956
   },
   {
-    "S#": 181,
+    "S#": 165,
     "Title": "Hialeah apartment shooting",
     "Location": "Hialeah, Florida",
     "Date": "7/26/2013",
@@ -2715,37 +2460,7 @@
     "Longitude": -80.29146268
   },
   {
-    "S#": 182,
-    "Title": "Hialeah Apartments",
-    "Location": "Hialeah, Florida",
-    "Date": "7/26/2013",
-    "Summary": "On July 26, 2013, a 42-year old man set fire to his apartment in Hialeah, Florida, and opened fire from his balcony and inside the apartment complex. Then he held two neighbors hostage during a stand-off with police until he was fatally shot by a SWAT team.",
-    "Fatalities": 7,
-    "Injured": 0,
-    "Total victims": 6,
-    "Mental Health Issues": "No",
-    "Race": "Some other race",
-    "Gender": "Male",
-    "Latitude": 25.85294547,
-    "Longitude": -80.28316975
-  },
-  {
-    "S#": 183,
-    "Title": "Santa Monica rampage",
-    "Location": "Santa Monica, California",
-    "Date": "6/7/2013",
-    "Summary": "John Zawahri, 23, armed with a homemade assault rifle and high-capacity magazines, killed his brother and father at home and then headed to Santa Monica College, where he was eventually killed by police.",
-    "Fatalities": 6,
-    "Injured": 3,
-    "Total victims": 9,
-    "Mental Health Issues": "Yes",
-    "Race": "White",
-    "Gender": "Male",
-    "Latitude": 34.008617,
-    "Longitude": -118.494754
-  },
-  {
-    "S#": 184,
+    "S#": 166,
     "Title": "Santa Monica College",
     "Location": "Santa Monica, California",
     "Date": "6/7/2013",
@@ -2760,7 +2475,7 @@
     "Longitude": -118.4815644
   },
   {
-    "S#": 185,
+    "S#": 167,
     "Title": "Village of Manchester in Illinois",
     "Location": "Manchester, Illinois",
     "Date": "4/24/2013",
@@ -2775,22 +2490,7 @@
     "Longitude": -90.33029852
   },
   {
-    "S#": 186,
-    "Title": "Pinewood Village Apartment shooting",
-    "Location": "Federal Way, Washington",
-    "Date": "4/21/2013",
-    "Summary": "Dennis Clark III, 27, shot and killed his girlfriend in their shared apartment, and then shot two witnesses in the building's parking lot and a third victim in another apartment, before being killed by police.",
-    "Fatalities": 5,
-    "Injured": 0,
-    "Total victims": 5,
-    "Mental Health Issues": "No",
-    "Race": "Black",
-    "Gender": "Male",
-    "Latitude": 47.3129607,
-    "Longitude": -122.3393665
-  },
-  {
-    "S#": 187,
+    "S#": 168,
     "Title": "Pinewood Village Apartments",
     "Location": "Federal Way, Washington",
     "Date": "4/21/2013",
@@ -2805,22 +2505,7 @@
     "Longitude": -122.3357553
   },
   {
-    "S#": 188,
-    "Title": "Mohawk Valley shootings",
-    "Location": "Herkimer County, New York",
-    "Date": "3/13/2013",
-    "Summary": "Kurt Myers, 64, shot six people in neighboring towns, killing two in a barbershop and two at a car care business, before being killed by officers in a shootout after a nearly 19-hour standoff.",
-    "Fatalities": 5,
-    "Injured": 2,
-    "Total victims": 7,
-    "Mental Health Issues": "No",
-    "Race": "White",
-    "Gender": "Male",
-    "Latitude": 43.045601,
-    "Longitude": -74.984891
-  },
-  {
-    "S#": 189,
+    "S#": 169,
     "Title": "Mohawk and Herkimer Villages in New York",
     "Location": "Mohawk, New York",
     "Date": "3/13/2013",
@@ -2835,7 +2520,7 @@
     "Longitude": -75.0075119
   },
   {
-    "S#": 190,
+    "S#": 170,
     "Title": "Ladera Ranch, Santa Ana, Tustin and Orange",
     "Location": "Ladera Ranch, California",
     "Date": "2/19/2013",
@@ -2850,7 +2535,7 @@
     "Longitude": -117.6415707
   },
   {
-    "S#": 191,
+    "S#": 171,
     "Title": "Los Angeles Police Department",
     "Location": "Irvine, California",
     "Date": "2/3/2013",
@@ -2865,7 +2550,7 @@
     "Longitude": -117.773628
   },
   {
-    "S#": 192,
+    "S#": 172,
     "Title": "Phoenix Law Firm",
     "Location": "Phoenix, Arizona",
     "Date": "1/30/2013",
@@ -2880,7 +2565,7 @@
     "Longitude": -112.0904854
   },
   {
-    "S#": 193,
+    "S#": 173,
     "Title": "South Valley Residence",
     "Location": "South Valley, Albuquerque, New Mexico",
     "Date": "1/19/2013",
@@ -2895,22 +2580,7 @@
     "Longitude": -106.7791378
   },
   {
-    "S#": 194,
-    "Title": "Newtown school shooting",
-    "Location": "Newtown, Connecticut",
-    "Date": "12/14/2012",
-    "Summary": "Adam Lanza, 20, shot his mother dead at their home then drove to Sandy Hook Elementary school. He forced his way inside and opened fire, killing 20 children and six adults before committing suicide.",
-    "Fatalities": 28,
-    "Injured": 2,
-    "Total victims": 30,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 41.4123225,
-    "Longitude": -73.31142358
-  },
-  {
-    "S#": 195,
+    "S#": 174,
     "Title": "Sandy Hook Elementary School",
     "Location": "Newtown, Connecticut",
     "Date": "12/14/2012",
@@ -2925,7 +2595,7 @@
     "Longitude": -73.31196267
   },
   {
-    "S#": 196,
+    "S#": 175,
     "Title": "Clackamas Town Center",
     "Location": "Happy Valley, Oregon",
     "Date": "12/11/2012",
@@ -2940,7 +2610,7 @@
     "Longitude": -122.5440133
   },
   {
-    "S#": 197,
+    "S#": 176,
     "Title": "Azana Spa in Brookfield",
     "Location": "Brookfield, Wisconsin",
     "Date": "10/21/2012",
@@ -2955,7 +2625,7 @@
     "Longitude": -88.12299758
   },
   {
-    "S#": 198,
+    "S#": 177,
     "Title": "The Spot Nightclub",
     "Location": "Miami, Florida",
     "Date": "9/28/2012",
@@ -2970,22 +2640,7 @@
     "Longitude": -80.20840397
   },
   {
-    "S#": 199,
-    "Title": "Accent Signage Systems shooting",
-    "Location": "Minneapolis, Minnesota",
-    "Date": "9/27/2012",
-    "Summary": "Andrew Engeldinger, 36, upon learning he was being fired, went on a shooting rampage, killing the business owner, three fellow employees, and a UPS driver. He then killed himself.",
-    "Fatalities": 7,
-    "Injured": 1,
-    "Total victims": 8,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 44.9772995,
-    "Longitude": -93.2654692
-  },
-  {
-    "S#": 200,
+    "S#": 178,
     "Title": "Accent Signage Systems in Minneapolis",
     "Location": "Minneapolis, Minnesota",
     "Date": "9/27/2012",
@@ -3000,22 +2655,7 @@
     "Longitude": -93.26783687
   },
   {
-    "S#": 201,
-    "Title": "Sikh temple shooting",
-    "Location": "Oak Creek, Wisconsin",
-    "Date": "8/5/2012",
-    "Summary": "U.S. Army veteran Wade Michael Page, 40, opened fire in a Sikh gurdwara before he died from a self-inflicted gunshot would during a shootout with police.",
-    "Fatalities": 7,
-    "Injured": 3,
-    "Total victims": 10,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 42.8858503,
-    "Longitude": -87.8631362
-  },
-  {
-    "S#": 202,
+    "S#": 179,
     "Title": "Sikh Temple in Wisconsin",
     "Location": "Oak Creek, Wisconsin",
     "Date": "8/5/2012",
@@ -3030,7 +2670,7 @@
     "Longitude": -87.90087079
   },
   {
-    "S#": 203,
+    "S#": 180,
     "Title": "Aurora theater shooting",
     "Location": "Aurora, Colorado",
     "Date": "7/20/2012",
@@ -3045,22 +2685,7 @@
     "Longitude": -104.823488
   },
   {
-    "S#": 204,
-    "Title": "Movie Theater in Aurora",
-    "Location": "Denver, Colorado",
-    "Date": "7/20/2012",
-    "Summary": "On July 20, 2012, a 24-year old student set off several gas or smoke canisters at a movie theater in Aurora, and then opened fire on the theater audience, killing twelve people and wounding fifty-eight. Moments after the shooting, police arrested the shooter next to his car behind the theater. Once apprehended, the shooter told the police that he had booby-trapped his apartment with explosive devices before heading to the theater.",
-    "Fatalities": 12,
-    "Injured": 58,
-    "Total victims": 70,
-    "Mental Health Issues": "Yes",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 39.72941874,
-    "Longitude": -104.9825207
-  },
-  {
-    "S#": 205,
+    "S#": 181,
     "Title": "University Heights Apartments in Auburn",
     "Location": "Auburn, Alabama",
     "Date": "6/9/2012",
@@ -3075,7 +2700,7 @@
     "Longitude": -85.48989253
   },
   {
-    "S#": 206,
+    "S#": 182,
     "Title": "Cafe in Seattle",
     "Location": "Seattle, Washington",
     "Date": "5/30/2012",
@@ -3090,7 +2715,7 @@
     "Longitude": -122.323646
   },
   {
-    "S#": 207,
+    "S#": 183,
     "Title": "Seattle cafe shooting",
     "Location": "Seattle, Washington",
     "Date": "5/20/2012",
@@ -3105,7 +2730,7 @@
     "Longitude": -122.3300624
   },
   {
-    "S#": 208,
+    "S#": 184,
     "Title": "North Tulsa, Oklahoma",
     "Location": "Tulsa, Oklahoma",
     "Date": "4/6/2012",
@@ -3120,7 +2745,7 @@
     "Longitude": -95.91316117
   },
   {
-    "S#": 209,
+    "S#": 185,
     "Title": "Oikos University killings",
     "Location": "Oakland, California",
     "Date": "4/2/2012",
@@ -3135,22 +2760,7 @@
     "Longitude": -122.2708166
   },
   {
-    "S#": 210,
-    "Title": "Oikos University",
-    "Location": "Oakland, California",
-    "Date": "4/2/2012",
-    "Summary": "On April 2, 2012, a 43-year old former student at Oikos University, a Korean Christian college in Oakland, California, opened fired in a classroom killing seven people and injuring other three. The attacker continued to fire shots as he fled the campus, driving away in a car belonging to one of his victims. Hours later he surrendered to authorities.",
-    "Fatalities": 7,
-    "Injured": 3,
-    "Total victims": 10,
-    "Mental Health Issues": "Yes",
-    "Race": "Asian American",
-    "Gender": "Male",
-    "Latitude": 37.79176806,
-    "Longitude": -122.2153171
-  },
-  {
-    "S#": 211,
+    "S#": 186,
     "Title": "Chardon High School",
     "Location": "Chardon, Ohio",
     "Date": "2/27/2012",
@@ -3165,7 +2775,7 @@
     "Longitude": -81.20812625
   },
   {
-    "S#": 212,
+    "S#": 187,
     "Title": "Su Jung Health Sauna shooting",
     "Location": "Norcross, Georgia",
     "Date": "2/22/2012",
@@ -3180,22 +2790,7 @@
     "Longitude": -84.2135309
   },
   {
-    "S#": 213,
-    "Title": "Su Jung Health Sauna",
-    "Location": "Norcross, Georgia",
-    "Date": "2/22/2012",
-    "Summary": "On February 22, 2012, a 59-year old man hours before the shooting unfolded, police said Paek was asked to leave the spa because he was being disruptive. Burst into a spa his family owned in Norcross, near Atlanta, Georgia. He killed four relatives before turning the gun on himself.",
-    "Fatalities": 5,
-    "Injured": 0,
-    "Total victims": 4,
-    "Mental Health Issues": "Yes",
-    "Race": "Asian American",
-    "Gender": "Male",
-    "Latitude": 33.94104379,
-    "Longitude": -84.20985979
-  },
-  {
-    "S#": 214,
+    "S#": 188,
     "Title": "Ensley Birmingham",
     "Location": "Birmingham, Alabama",
     "Date": "1/29/2012",
@@ -3210,22 +2805,7 @@
     "Longitude": -86.79550448
   },
   {
-    "S#": 215,
-    "Title": "Seal Beach shooting",
-    "Location": "Seal Beach, California",
-    "Date": "10/14/2011",
-    "Summary": "Scott Evans Dekraai, 42, opened fire inside a hair salon and was later arrested.",
-    "Fatalities": 8,
-    "Injured": 1,
-    "Total victims": 9,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 33.741176,
-    "Longitude": -118.1046356
-  },
-  {
-    "S#": 216,
+    "S#": 189,
     "Title": "Salon Meritage",
     "Location": "Seal Beach, California",
     "Date": "10/12/2011",
@@ -3240,7 +2820,7 @@
     "Longitude": -118.0715378
   },
   {
-    "S#": 217,
+    "S#": 190,
     "Title": "IHOP shooting",
     "Location": "Carson City, Nevada",
     "Date": "9/6/2011",
@@ -3255,22 +2835,7 @@
     "Longitude": -119.7674034
   },
   {
-    "S#": 218,
-    "Title": "Carson City IHOP",
-    "Location": "Carson City, Nevada",
-    "Date": "9/6/2011",
-    "Summary": "On September 6, 2011, a 32-year old man arrived at a local strip mall in Carson City, Nevada. He got out and shot and wounded a man on a motorcycle. He then walked inside the center's IHOP restaurant and shot eleven people, four of them fatally. Then he left the restaurant and began shooting into nearby businesses, injuring no one. When police arrived, the shooter turned the gun of himself.",
-    "Fatalities": 5,
-    "Injured": 7,
-    "Total victims": 11,
-    "Mental Health Issues": "Yes",
-    "Race": "Some other race",
-    "Gender": "Male",
-    "Latitude": 39.16464203,
-    "Longitude": -119.7763025
-  },
-  {
-    "S#": 219,
+    "S#": 191,
     "Title": "Residences in Grand Rapids",
     "Location": "Grand Rapids, Michigan",
     "Date": "7/7/2011",
@@ -3285,7 +2850,7 @@
     "Longitude": -85.66008902
   },
   {
-    "S#": 220,
+    "S#": 192,
     "Title": "Southern Union State Community College",
     "Location": "Opelika, Alabama",
     "Date": "4/6/2011",
@@ -3300,7 +2865,7 @@
     "Longitude": -85.37706931
   },
   {
-    "S#": 221,
+    "S#": 193,
     "Title": "Youngstown State University",
     "Location": "Youngstown, Ohio",
     "Date": "2/6/2011",
@@ -3315,7 +2880,7 @@
     "Longitude": -80.64631705
   },
   {
-    "S#": 222,
+    "S#": 194,
     "Title": "Tucson shooting",
     "Location": "Tucson, Arizona",
     "Date": "1/8/2011",
@@ -3330,22 +2895,7 @@
     "Longitude": -110.926479
   },
   {
-    "S#": 223,
-    "Title": "Tucson, Arizona",
-    "Location": "Tucson, Arizona",
-    "Date": "1/8/2011",
-    "Summary": "On January 8, 2011, a 22-year old went to a parking lot where a U.S. Representative was holding a meeting in a supermarket parking lot in Casas Adobes, near Tucson, Arizona. The gunman shot and injured the congresswoman, her intended target and then started to shoot randomly, killing six people and injuring twelve others. The shooter was subdued by bystanders and arrested by police.",
-    "Fatalities": 6,
-    "Injured": 13,
-    "Total victims": 19,
-    "Mental Health Issues": "Yes",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 32.15358905,
-    "Longitude": -110.9677647
-  },
-  {
-    "S#": 224,
+    "S#": 195,
     "Title": "Hartford Beer Distributor shooting",
     "Location": "Manchester, Connecticut",
     "Date": "8/3/2010",
@@ -3360,22 +2910,7 @@
     "Longitude": -72.5214755
   },
   {
-    "S#": 225,
-    "Title": "Hartford Beer Distributors",
-    "Location": "Manchester, Connecticut",
-    "Date": "8/3/2010",
-    "Summary": "On August 3, 2010, a 34-year old man was called into his place of employment at Hartford Beer Distributors in Manchester, Connecticut for disciplinary purposes. He signed resignation papers after he was accused of stealing beer and while he was been escorted out of the building, he opened fire killing eight coworkers and injuring two others before committing suicide.",
-    "Fatalities": 9,
-    "Injured": 2,
-    "Total victims": 10,
-    "Mental Health Issues": "Unknown",
-    "Race": "Black American or African American",
-    "Gender": "Male",
-    "Latitude": 41.78013821,
-    "Longitude": -72.51918655
-  },
-  {
-    "S#": 226,
+    "S#": 196,
     "Title": "University of Alabama in Huntsville",
     "Location": "Huntsville, Alabama",
     "Date": "2/12/2010",
@@ -3390,7 +2925,7 @@
     "Longitude": -86.6723055
   },
   {
-    "S#": 227,
+    "S#": 197,
     "Title": "Coffee shop police killings",
     "Location": "Parkland, Washington",
     "Date": "11/29/2009",
@@ -3405,7 +2940,7 @@
     "Longitude": -122.437031
   },
   {
-    "S#": 228,
+    "S#": 198,
     "Title": "Parkland Coffee Shop",
     "Location": "Lakewood, Washington",
     "Date": "11/29/2009",
@@ -3420,22 +2955,7 @@
     "Longitude": -122.5296574
   },
   {
-    "S#": 229,
-    "Title": "Fort Hood massacre",
-    "Location": "Fort Hood, Texas",
-    "Date": "11/5/2009",
-    "Summary": "Army psychiatrist Nidal Malik Hasan, 39, opened fire on an Army base in an attack linked to Islamist extremism. Hasan was injured during the attack and later arrested.",
-    "Fatalities": 13,
-    "Injured": 30,
-    "Total victims": 43,
-    "Mental Health Issues": "Unclear",
-    "Race": "Other",
-    "Gender": "Male",
-    "Latitude": 31.2011305,
-    "Longitude": -97.77156996
-  },
-  {
-    "S#": 230,
+    "S#": 199,
     "Title": "Fort Hood Army Base",
     "Location": "Fort Hood, Texas",
     "Date": "11/5/2009",
@@ -3450,7 +2970,7 @@
     "Longitude": -97.77797804
   },
   {
-    "S#": 231,
+    "S#": 200,
     "Title": "Binghamton shootings",
     "Location": "Binghamton, New York",
     "Date": "4/3/2009",
@@ -3465,22 +2985,7 @@
     "Longitude": -75.9179738
   },
   {
-    "S#": 232,
-    "Title": "Immigration Services Center in Binghamton",
-    "Location": "Binghamton, New York",
-    "Date": "4/3/2009",
-    "Summary": "On April 3, 2009, a 41-year old unemployed man entered an immigration services center in Binghamton, New York, where he previously took classes. He shot and killed thirteen people in the building and injured four others before he committed suicide.",
-    "Fatalities": 14,
-    "Injured": 4,
-    "Total victims": 17,
-    "Mental Health Issues": "Yes",
-    "Race": "Asian American",
-    "Gender": "Male",
-    "Latitude": 42.10140103,
-    "Longitude": -75.90922294
-  },
-  {
-    "S#": 233,
+    "S#": 201,
     "Title": "Carthage nursing home shooting",
     "Location": "Carthage, North Carolina",
     "Date": "3/29/2009",
@@ -3495,7 +3000,7 @@
     "Longitude": -79.4170543
   },
   {
-    "S#": 234,
+    "S#": 202,
     "Title": "Rivermark, Santa Clara, California",
     "Location": "Santa Clara, California",
     "Date": "3/29/2009",
@@ -3510,7 +3015,7 @@
     "Longitude": -121.9679315
   },
   {
-    "S#": 235,
+    "S#": 203,
     "Title": "Pinelake Health and Rehab nursing home",
     "Location": "Carthage, North Carolina",
     "Date": "3/29/2009",
@@ -3525,7 +3030,7 @@
     "Longitude": -79.41381725
   },
   {
-    "S#": 236,
+    "S#": 204,
     "Title": "Geneva County, Alabama",
     "Location": "Geneva, Alabama",
     "Date": "3/10/2009",
@@ -3540,7 +3045,7 @@
     "Longitude": -85.8763466
   },
   {
-    "S#": 237,
+    "S#": 205,
     "Title": "Covina, California",
     "Location": "Covina, California",
     "Date": "12/24/2008",
@@ -3555,7 +3060,7 @@
     "Longitude": -117.8819958
   },
   {
-    "S#": 238,
+    "S#": 206,
     "Title": "University of Central Arkansas",
     "Location": "Conway, Arkansas",
     "Date": "10/26/2008",
@@ -3570,7 +3075,7 @@
     "Longitude": -92.43278275
   },
   {
-    "S#": 239,
+    "S#": 207,
     "Title": "South Mountain Community College",
     "Location": "Phoenix, Arizona",
     "Date": "7/24/2008",
@@ -3585,22 +3090,7 @@
     "Longitude": -112.0904854
   },
   {
-    "S#": 240,
-    "Title": "Atlantis Plastics shooting",
-    "Location": "Henderson, Kentucky",
-    "Date": "6/25/2008",
-    "Summary": "Disgruntled employee Wesley Neal Higdon, 25, shot up an Atlantis Plastics factory after he was escorted out of his workplace for an argument with a supervisor. Higdon shot the supervisor outside the factory before opening fire on coworkers inside. He then committed suicide.",
-    "Fatalities": 6,
-    "Injured": 1,
-    "Total victims": 7,
-    "Mental Health Issues": "No",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 37.76721,
-    "Longitude": -87.5573742
-  },
-  {
-    "S#": 241,
+    "S#": 208,
     "Title": "Atlantis Plastics",
     "Location": "Henderson, Kentucky",
     "Date": "6/25/2008",
@@ -3615,7 +3105,7 @@
     "Longitude": -87.57853755
   },
   {
-    "S#": 242,
+    "S#": 209,
     "Title": "Northern Illinois University shooting",
     "Location": "DeKalb, Illinois",
     "Date": "2/14/2008",
@@ -3630,37 +3120,7 @@
     "Longitude": -88.7503647
   },
   {
-    "S#": 243,
-    "Title": "Northern Illinois University",
-    "Location": "DeKalb, Illinois",
-    "Date": "2/14/2008",
-    "Summary": "On February 14, 2008, a 27-year old former student of the Northern Illinois University in Dekalb, Illinois forcefully entered an oceanography lecture hall and began shooting at students and the professor. The shooter killed five and wounded seventeen before committing suicide. The shooter was said to have been taking medication for anxiety, depression and insomnia but had stopped the medication shortly before the incident.",
-    "Fatalities": 6,
-    "Injured": 17,
-    "Total victims": 22,
-    "Mental Health Issues": "Yes",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 41.93172129,
-    "Longitude": -88.74814853
-  },
-  {
-    "S#": 244,
-    "Title": "Kirkwood City Council shooting",
-    "Location": "Kirkwood, Missouri",
-    "Date": "2/7/2008",
-    "Summary": "Charles \"Cookie\" Lee Thornton, 52, went on a rampage at the city hall before being shot and killed by police.",
-    "Fatalities": 6,
-    "Injured": 2,
-    "Total victims": 8,
-    "Mental Health Issues": "No",
-    "Race": "black",
-    "Gender": "Male",
-    "Latitude": 38.5833862,
-    "Longitude": -90.406785
-  },
-  {
-    "S#": 245,
+    "S#": 210,
     "Title": "Kirkwood City Hall",
     "Location": "Kirkwood, Missouri",
     "Date": "2/7/2008",
@@ -3675,7 +3135,7 @@
     "Longitude": -90.42023754
   },
   {
-    "S#": 246,
+    "S#": 211,
     "Title": "Carnation, Washington",
     "Location": "Carnation, Washington",
     "Date": "12/24/2007",
@@ -3690,7 +3150,7 @@
     "Longitude": -121.9088524
   },
   {
-    "S#": 247,
+    "S#": 212,
     "Title": "Mojave High School Bus",
     "Location": "Las Vegas, Nevada",
     "Date": "12/11/2007",
@@ -3705,7 +3165,7 @@
     "Longitude": -115.3264875
   },
   {
-    "S#": 248,
+    "S#": 213,
     "Title": "Youth With A Mission and New Life Church",
     "Location": "Arvada, Colorado",
     "Date": "12/9/2007",
@@ -3720,7 +3180,7 @@
     "Longitude": -105.173715
   },
   {
-    "S#": 249,
+    "S#": 214,
     "Title": "Westroads Mall shooting",
     "Location": "Omaha, Nebraska",
     "Date": "12/5/2007",
@@ -3735,22 +3195,7 @@
     "Longitude": -95.9378732
   },
   {
-    "S#": 250,
-    "Title": "Westroads Mall",
-    "Location": "Omaha, Nebraska",
-    "Date": "12/5/2007",
-    "Summary": "On December 5, 2007, a 19-year-old man from Omaha, Nebraska entered the Westroads Mall with the intention of taking lives before committing suicide. He killed eight shoppers and wounded four more with a stolen assault rifle before successfully killing himself.",
-    "Fatalities": 9,
-    "Injured": 4,
-    "Total victims": 12,
-    "Mental Health Issues": "Yes",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 41.265922,
-    "Longitude": -96.05381421
-  },
-  {
-    "S#": 251,
+    "S#": 215,
     "Title": "South Middle School Football Game",
     "Location": "Saginaw, Michigan",
     "Date": "10/25/2007",
@@ -3765,7 +3210,7 @@
     "Longitude": -83.95032759
   },
   {
-    "S#": 252,
+    "S#": 216,
     "Title": "SuccessTech Academy",
     "Location": "Cleveland, Ohio",
     "Date": "10/11/2007",
@@ -3780,7 +3225,7 @@
     "Longitude": -81.68051502
   },
   {
-    "S#": 253,
+    "S#": 217,
     "Title": "Crandon shooting",
     "Location": "Crandon, Wisconsin",
     "Date": "10/7/2007",
@@ -3795,22 +3240,7 @@
     "Longitude": -88.9028922
   },
   {
-    "S#": 254,
-    "Title": "Apartment in Crandon, Wisconsin",
-    "Location": "Crandon, Wisconsin",
-    "Date": "10/7/2007",
-    "Summary": "In the early hours of October 7, 2007, a 20-year-old off-duty sheriff's deputy at a homecoming after party opened fire on houseguests possibly after a dispute with his girlfriend. He killed six and wounded another before fleeing the scene and committing suicide.",
-    "Fatalities": 7,
-    "Injured": 1,
-    "Total victims": 7,
-    "Mental Health Issues": "No",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 45.56871416,
-    "Longitude": -88.89729022
-  },
-  {
-    "S#": 255,
+    "S#": 218,
     "Title": "Virginia Tech massacre",
     "Location": "Blacksburg, Virginia",
     "Date": "4/16/2007",
@@ -3825,22 +3255,7 @@
     "Longitude": -80.4139393
   },
   {
-    "S#": 256,
-    "Title": "Virginia Tech  Campus",
-    "Location": "Blacksburg, Virginia",
-    "Date": "4/16/2007",
-    "Summary": "On April 16, 2007, a 23-year-old mentally ill student of Virginia Tech in Blacksburg, Virginia arrived on campus and began methodically shooting at students and faculty in classrooms and hallways. He killed five faculty members and twenty seven students before shooting himself in the head.",
-    "Fatalities": 33,
-    "Injured": 17,
-    "Total victims": 49,
-    "Mental Health Issues": "Yes",
-    "Race": "Asian American",
-    "Gender": "Male",
-    "Latitude": 37.22995471,
-    "Longitude": -80.42768677
-  },
-  {
-    "S#": 257,
+    "S#": 219,
     "Title": "Springwater Trail High School",
     "Location": "Gresham, Oregon",
     "Date": "4/10/2007",
@@ -3855,22 +3270,7 @@
     "Longitude": -122.4412759
   },
   {
-    "S#": 258,
-    "Title": "Trolley Square shooting",
-    "Location": "Salt Lake City, Utah",
-    "Date": "2/12/2007",
-    "Summary": "Sulejman Talović, 18, rampaged through the shopping center until he was shot dead by police.",
-    "Fatalities": 6,
-    "Injured": 4,
-    "Total victims": 10,
-    "Mental Health Issues": "Unclear",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 40.7606467,
-    "Longitude": -111.89109
-  },
-  {
-    "S#": 259,
+    "S#": 220,
     "Title": "Trolley Square",
     "Location": "Salt Lake City, Utah",
     "Date": "2/12/2007",
@@ -3885,7 +3285,7 @@
     "Longitude": -111.9312168
   },
   {
-    "S#": 260,
+    "S#": 221,
     "Title": "Amish school shooting",
     "Location": "Lancaster County, Pennsylvania",
     "Date": "10/2/2006",
@@ -3900,7 +3300,7 @@
     "Longitude": -76.0806
   },
   {
-    "S#": 261,
+    "S#": 222,
     "Title": "West Nickel Mines Amish School",
     "Location": "Nickel Mines, Lancaster, Pennsylvania",
     "Date": "10/2/2006",
@@ -3915,7 +3315,7 @@
     "Longitude": -76.30100872
   },
   {
-    "S#": 262,
+    "S#": 223,
     "Title": "Duquesne University",
     "Location": "Pittsburgh, Pennsylvania",
     "Date": "9/17/2006",
@@ -3930,7 +3330,7 @@
     "Longitude": -79.97631581
   },
   {
-    "S#": 263,
+    "S#": 224,
     "Title": "Orange High School",
     "Location": "Hillsborough, North Carolina",
     "Date": "8/30/2006",
@@ -3945,7 +3345,7 @@
     "Longitude": -79.09701201
   },
   {
-    "S#": 264,
+    "S#": 225,
     "Title": "Essex Elementary School",
     "Location": "Essex Junction, Vermont",
     "Date": "8/24/2006",
@@ -3960,7 +3360,7 @@
     "Longitude": -73.11400628
   },
   {
-    "S#": 265,
+    "S#": 226,
     "Title": "Capitol Hill massacre",
     "Location": "Seattle, Washington",
     "Date": "3/25/2006",
@@ -3975,37 +3375,7 @@
     "Longitude": -122.3165
   },
   {
-    "S#": 266,
-    "Title": "Party in Capitol Hill, Seattle",
-    "Location": "Seattle, Washington",
-    "Date": "3/25/2006",
-    "Summary": "On March 25, 2006, an unemployed 28-year old went to a rave after party in a residential house in Capitol Hill, a neighborhood in Seattle, Washington. The gunman shot and killed six people and injured two more before committing suicide.",
-    "Fatalities": 7,
-    "Injured": 2,
-    "Total victims": 8,
-    "Mental Health Issues": "No",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 47.62199575,
-    "Longitude": -122.323646
-  },
-  {
-    "S#": 267,
-    "Title": "Goleta postal shootings",
-    "Location": "Goleta, California",
-    "Date": "1/30/2006",
-    "Summary": "Former postal worker Jennifer Sanmarco, 44, shot dead a former neighbor then drove to the mail processing plant where she used to work. Inside, she opened fire, killing six employees before committing suicide.",
-    "Fatalities": 8,
-    "Injured": 0,
-    "Total victims": 8,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Female",
-    "Latitude": 34.436283,
-    "Longitude": -119.8714406
-  },
-  {
-    "S#": 268,
+    "S#": 227,
     "Title": "Goleta Post Office",
     "Location": "Goleta, California",
     "Date": "1/30/2006",
@@ -4020,22 +3390,7 @@
     "Longitude": -119.8593619
   },
   {
-    "S#": 269,
-    "Title": "Red Lake massacre",
-    "Location": "Red Lake, Minnesota",
-    "Date": "3/21/2005",
-    "Summary": "Jeffrey Weise, 16, murdered his grandfather, who was a police officer, and grandfather's girlfriend. Weise then drove his grandfather's squad car to Red Lake Senior High School and opened fire on the reservation campus, killing another seven people before committing suicide.",
-    "Fatalities": 10,
-    "Injured": 5,
-    "Total victims": 15,
-    "Mental Health Issues": "Yes",
-    "Race": "Native American",
-    "Gender": "Male",
-    "Latitude": 47.876346,
-    "Longitude": -95.0169401
-  },
-  {
-    "S#": 270,
+    "S#": 228,
     "Title": "Red Lake High School",
     "Location": "Red Lake, Minnesota",
     "Date": "3/21/2005",
@@ -4050,22 +3405,7 @@
     "Longitude": -95.00529009
   },
   {
-    "S#": 271,
-    "Title": "Living Church of God shooting",
-    "Location": "Brookfield, Wisconsin",
-    "Date": "3/12/2005",
-    "Summary": "Living Church of God member Terry Michael Ratzmann, 44, opened fire at a church meeting at a Sheraton hotel before committing suicide.",
-    "Fatalities": 7,
-    "Injured": 4,
-    "Total victims": 11,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 43.0605671,
-    "Longitude": -88.1064787
-  },
-  {
-    "S#": 272,
+    "S#": 229,
     "Title": "Living Church of God",
     "Location": "Brookfield, Wisconsin",
     "Date": "3/12/2005",
@@ -4080,7 +3420,7 @@
     "Longitude": -88.12299758
   },
   {
-    "S#": 273,
+    "S#": 230,
     "Title": "Tyler Courthouse",
     "Location": "Tyler, Texas",
     "Date": "2/24/2005",
@@ -4095,22 +3435,7 @@
     "Longitude": -95.30501087
   },
   {
-    "S#": 274,
-    "Title": "Damageplan show shooting",
-    "Location": "Columbus, Ohio",
-    "Date": "12/8/2004",
-    "Summary": "Nathan Gale, 25, possibly upset about the breakup of Pantera, gunned down former Pantera guitarist Dimebag Darrell and three others at a Damageplan show before a police officer fatally shot Gale.",
-    "Fatalities": 5,
-    "Injured": 7,
-    "Total victims": 12,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 39.9622601,
-    "Longitude": -83.0007065
-  },
-  {
-    "S#": 275,
+    "S#": 231,
     "Title": "Damageplan show at the Alrosa Villa Nightclub",
     "Location": "Columbus, Ohio",
     "Date": "12/8/2004",
@@ -4125,7 +3450,7 @@
     "Longitude": -82.98904135
   },
   {
-    "S#": 276,
+    "S#": 232,
     "Title": "Birchwood, Wisconsin",
     "Location": "Birchwood, Wisconsin",
     "Date": "11/21/2004",
@@ -4140,7 +3465,7 @@
     "Longitude": -91.55077175
   },
   {
-    "S#": 277,
+    "S#": 233,
     "Title": "Windy City Core Supply Warehouse",
     "Location": "Chicago, Illinois",
     "Date": "8/27/2003",
@@ -4155,7 +3480,7 @@
     "Longitude": -87.68818145
   },
   {
-    "S#": 278,
+    "S#": 234,
     "Title": "Lockheed Martin shooting",
     "Location": "Meridian, Mississippi",
     "Date": "7/8/2003",
@@ -4170,22 +3495,7 @@
     "Longitude": -88.68978002
   },
   {
-    "S#": 279,
-    "Title": "Lockheed Martin",
-    "Location": "Meridian, Mississippi",
-    "Date": "7/8/2003",
-    "Summary": "On July 8, 2003, a 48-year-old factory worker at Lockheed Martin in Meridian, Mississippi was attending a diversity training workshop mandated by his employer before excusing himself. Minutes later, he returned to the meeting and began shooting at his coworkers, killing six and wounding eight more before killing himself. The shooting was thought to have been racially motivated.",
-    "Fatalities": 7,
-    "Injured": 8,
-    "Total victims": 14,
-    "Mental Health Issues": "No",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 32.38455246,
-    "Longitude": -88.68967949
-  },
-  {
-    "S#": 280,
+    "S#": 235,
     "Title": "Case Western Reserve University",
     "Location": "Cleveland, Ohio",
     "Date": "5/9/2003",
@@ -4200,7 +3510,7 @@
     "Longitude": -81.68051502
   },
   {
-    "S#": 281,
+    "S#": 236,
     "Title": "University of Arizona College of Nursing",
     "Location": "Tucson, Arizona",
     "Date": "10/28/2002",
@@ -4215,7 +3525,7 @@
     "Longitude": -110.9677647
   },
   {
-    "S#": 282,
+    "S#": 237,
     "Title": "Appalachian School of Law",
     "Location": "Grundy, Virginia",
     "Date": "1/16/2002",
@@ -4230,7 +3540,7 @@
     "Longitude": -82.09877234
   },
   {
-    "S#": 283,
+    "S#": 238,
     "Title": "Santana High School",
     "Location": "Santee, San Diego, California",
     "Date": "3/5/2001",
@@ -4245,22 +3555,7 @@
     "Longitude": -117.1281628
   },
   {
-    "S#": 284,
-    "Title": "Navistar shooting",
-    "Location": "Melrose Park, Illinois",
-    "Date": "2/5/2001",
-    "Summary": "Fired employee William D. Baker, 66, opened fire at his former Navistar workplace before committing suicide.",
-    "Fatalities": 5,
-    "Injured": 4,
-    "Total victims": 9,
-    "Mental Health Issues": "No",
-    "Race": "black",
-    "Gender": "Male",
-    "Latitude": 41.9005865,
-    "Longitude": -87.8567277
-  },
-  {
-    "S#": 285,
+    "S#": 239,
     "Title": "Navistar International",
     "Location": "Melrose Park, Illinois",
     "Date": "2/5/2001",
@@ -4275,7 +3570,7 @@
     "Longitude": -87.8643021
   },
   {
-    "S#": 286,
+    "S#": 240,
     "Title": "Wakefield massacre",
     "Location": "Wakefield, Massachusetts",
     "Date": "12/26/2000",
@@ -4290,37 +3585,7 @@
     "Longitude": -71.0728306
   },
   {
-    "S#": 287,
-    "Title": "Edgewater Technology",
-    "Location": "Wakefield, Boston, Massachusetts",
-    "Date": "12/26/2000",
-    "Summary": "On December 26, 2000, a 42-year-old computer technician at Edgewater Technology in Wakefield, Massachusetts entered his office and began shooting at managers and coworkers, killing seven before he was arrested. He claimed he was sent as a time-traveler to kill Nazis, and his insanity plea was denied.",
-    "Fatalities": 7,
-    "Injured": 0,
-    "Total victims": 7,
-    "Mental Health Issues": "No",
-    "Race": "Some other race",
-    "Gender": "Male",
-    "Latitude": 42.30904091,
-    "Longitude": -71.10271358
-  },
-  {
-    "S#": 288,
-    "Title": "Hotel shooting",
-    "Location": "Tampa, Florida",
-    "Date": "12/30/1999",
-    "Summary": "Hotel employee Silvio Leyva, 36, gunned down four coworkers at the Radisson Bay Harbor Inn before killing a woman outside who refused to give him her car. He was arrested shortly after the shootings.",
-    "Fatalities": 5,
-    "Injured": 3,
-    "Total victims": 8,
-    "Mental Health Issues": "Yes",
-    "Race": "Latino",
-    "Gender": "Male",
-    "Latitude": 27.9477595,
-    "Longitude": -82.458444
-  },
-  {
-    "S#": 289,
+    "S#": 241,
     "Title": "Radisson Bay Harbor Inn",
     "Location": "Tampa, Florida",
     "Date": "12/30/1999",
@@ -4335,7 +3600,7 @@
     "Longitude": -82.44503769
   },
   {
-    "S#": 290,
+    "S#": 242,
     "Title": "Fort Gibson Middle School",
     "Location": "Fort Gibson, Oklahoma",
     "Date": "12/6/1999",
@@ -4350,7 +3615,7 @@
     "Longitude": -95.25996596
   },
   {
-    "S#": 291,
+    "S#": 243,
     "Title": "Xerox killings",
     "Location": "Honolulu, Hawaii",
     "Date": "11/2/1999",
@@ -4365,37 +3630,7 @@
     "Longitude": -157.8473055
   },
   {
-    "S#": 292,
-    "Title": "Xerox Office Building",
-    "Location": "Honolulu, Hawaii",
-    "Date": "11/2/1999",
-    "Summary": "On November 2, 1999, a 40-year-old Xerox employee arrived to work at his office in Honolulu, Hawaii and began shooting his coworkers, killing seven before fleeing. He was later arrested in the mountains of Honolulu and was found to have been suffering from paranoid delusions and hallucinations from mental illness.",
-    "Fatalities": 7,
-    "Injured": 0,
-    "Total victims": 7,
-    "Mental Health Issues": "Yes",
-    "Race": "Asian American",
-    "Gender": "Male",
-    "Latitude": 21.309106,
-    "Longitude": -157.844998
-  },
-  {
-    "S#": 293,
-    "Title": "Wedgwood Baptist Church shooting",
-    "Location": "Fort Worth, Texas",
-    "Date": "9/15/1999",
-    "Summary": "Larry Gene Ashbrook, 47, opened fire inside the Wedgwood Baptist Church during a prayer rally before committing suicide.",
-    "Fatalities": 8,
-    "Injured": 7,
-    "Total victims": 15,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 32.693397,
-    "Longitude": -97.47067092
-  },
-  {
-    "S#": 294,
+    "S#": 244,
     "Title": "Wedgwood Baptist Church",
     "Location": "Fort Worth, Texas",
     "Date": "9/15/1999",
@@ -4410,22 +3645,7 @@
     "Longitude": -97.31305148
   },
   {
-    "S#": 295,
-    "Title": "Atlanta day trading spree killings",
-    "Location": "Atlanta, Georgia",
-    "Date": "7/29/1999",
-    "Summary": "Day trader Mark O. Barton, 44, who had recently lost a substantial sum of money, went on a shooting spree through two day-trading firms. He started at the All-Tech Investment Group, where he worked, then went on to Momentum Securities. He fled and hours later, after being cornered by police outside a gas station, committed suicide. (Two days before the spree, he killed his wife and two children with a hammer.)",
-    "Fatalities": 9,
-    "Injured": 13,
-    "Total victims": 22,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 33.7490987,
-    "Longitude": -84.3901849
-  },
-  {
-    "S#": 296,
+    "S#": 245,
     "Title": "Offices of All-Tech Investment Group and Momentum Securities",
     "Location": "Atlanta, Georgia",
     "Date": "7/29/1999",
@@ -4440,7 +3660,7 @@
     "Longitude": -84.4231328
   },
   {
-    "S#": 297,
+    "S#": 246,
     "Title": "Heritage High School",
     "Location": "Conyers, Georgia",
     "Date": "5/20/1999",
@@ -4455,22 +3675,7 @@
     "Longitude": -84.02688527
   },
   {
-    "S#": 298,
-    "Title": "Columbine High School massacre",
-    "Location": "Littleton, Colorado",
-    "Date": "4/20/1999",
-    "Summary": "Eric Harris, 18, and Dylan Klebold, 17, opened fire throughout Columbine High School before committing suicide.",
-    "Fatalities": 13,
-    "Injured": 24,
-    "Total victims": 37,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 39.6021065,
-    "Longitude": -104.9877273
-  },
-  {
-    "S#": 299,
+    "S#": 247,
     "Title": "Columbine High School",
     "Location": "Littleton, Colorado",
     "Date": "4/20/1999",
@@ -4485,7 +3690,7 @@
     "Longitude": -105.0152112
   },
   {
-    "S#": 300,
+    "S#": 248,
     "Title": "Riverside City Hall",
     "Location": "Riverside, California",
     "Date": "10/6/1998",
@@ -4500,22 +3705,7 @@
     "Longitude": -117.3948409
   },
   {
-    "S#": 301,
-    "Title": "Thurston High School shooting",
-    "Location": "Springfield, Oregon",
-    "Date": "5/21/1998",
-    "Summary": "After he was expelled for having a gun in his locker, Kipland P. Kinkel, 15, a freshman at Thurston High, went on a shooting spree, killing his parents at home and two students at school. Five classmates wrestled Kipland to the ground before he was arrested.",
-    "Fatalities": 4,
-    "Injured": 25,
-    "Total victims": 29,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 44.0462362,
-    "Longitude": -123.0220289
-  },
-  {
-    "S#": 302,
+    "S#": 249,
     "Title": "Thurston High School",
     "Location": "Springfield, Oregon",
     "Date": "5/21/1998",
@@ -4530,7 +3720,7 @@
     "Longitude": -123.0075562
   },
   {
-    "S#": 303,
+    "S#": 250,
     "Title": "Parker Middle School Dance",
     "Location": "Edinboro, Pennsylvania",
     "Date": "4/24/1998",
@@ -4545,7 +3735,7 @@
     "Longitude": -80.12459632
   },
   {
-    "S#": 304,
+    "S#": 251,
     "Title": "Westside Middle School killings",
     "Location": "Jonesboro, Arkansas",
     "Date": "3/24/1998",
@@ -4560,37 +3750,7 @@
     "Longitude": -90.6682606
   },
   {
-    "S#": 305,
-    "Title": "Westside Middle School",
-    "Location": "Jonesboro, Arkansas",
-    "Date": "3/24/1998",
-    "Summary": "On March 24, 1998, a 13-year-old boy stole his mother's car that he and an 11-year-old cousin had loaded with guns and ammunition. When they arrived to Westside Middle School in Jonesboro, Arkansas, the younger boy pulled the fire alarm and met the elder on a hill overlooking the evacuation meeting site. They boys then began shooting at the crowd, killing four students and a teacher and wounding ten others before being arrested.",
-    "Fatalities": 5,
-    "Injured": 10,
-    "Total victims": 15,
-    "Mental Health Issues": "No",
-    "Race": "White American or European American",
-    "Gender": "Male",
-    "Latitude": 35.82083155,
-    "Longitude": -90.67950058
-  },
-  {
-    "S#": 306,
-    "Title": "Connecticut Lottery shooting",
-    "Location": "Newington, Connecticut",
-    "Date": "3/6/1998",
-    "Summary": "Lottery worker Matthew Beck, 35, gunned down four bosses over a salary dispute before committing suicide.",
-    "Fatalities": 5,
-    "Injured": 1,
-    "Total victims": 6,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 41.6856325,
-    "Longitude": -72.72983827
-  },
-  {
-    "S#": 307,
+    "S#": 252,
     "Title": "Connecticut State Lottery Headquarters",
     "Location": "Newington, Connecticut",
     "Date": "3/6/1998",
@@ -4605,7 +3765,7 @@
     "Longitude": -72.73083927
   },
   {
-    "S#": 308,
+    "S#": 253,
     "Title": "Milwaukee Post Office",
     "Location": "Milwaukee, Wisconsin",
     "Date": "12/19/1997",
@@ -4620,22 +3780,7 @@
     "Longitude": -87.96724385
   },
   {
-    "S#": 309,
-    "Title": "Caltrans maintenance yard shooting",
-    "Location": "Orange, California",
-    "Date": "12/18/1997",
-    "Summary": "Former Caltrans employee Arturo Reyes Torres, 41, opened fire at a maintenance yard after he was fired for allegedly selling government materials he'd stolen from work. He was shot dead by police.",
-    "Fatalities": 5,
-    "Injured": 2,
-    "Total victims": 7,
-    "Mental Health Issues": "No",
-    "Race": "Latino",
-    "Gender": "Male",
-    "Latitude": 33.7877944,
-    "Longitude": -117.8531119
-  },
-  {
-    "S#": 310,
+    "S#": 254,
     "Title": "Caltrans Maintenance Yard",
     "Location": "Orange, California",
     "Date": "12/18/1997",
@@ -4650,7 +3795,7 @@
     "Longitude": -117.820412
   },
   {
-    "S#": 311,
+    "S#": 255,
     "Title": "Heath High School",
     "Location": "West Paducah, Kentucky",
     "Date": "12/1/1997",
@@ -4665,7 +3810,7 @@
     "Longitude": -88.74422
   },
   {
-    "S#": 312,
+    "S#": 256,
     "Title": "Pearl High School",
     "Location": "Pearl, Mississippi",
     "Date": "10/1/1997",
@@ -4680,22 +3825,7 @@
     "Longitude": -90.09470655
   },
   {
-    "S#": 313,
-    "Title": "R.E. Phelon Company shooting",
-    "Location": "Aiken, South Carolina",
-    "Date": "9/15/1997",
-    "Summary": "Ex-con Hastings Arthur Wise, 43, opened fire at the R.E. Phelon Company in retaliation for being fired after an argument with a supervisor. He attempted suicide by ingesting insecticide, failed, and was executed by the state of South Carolina eight years later.",
-    "Fatalities": 4,
-    "Injured": 3,
-    "Total victims": 7,
-    "Mental Health Issues": "No",
-    "Race": "black",
-    "Gender": "Male",
-    "Latitude": 33.5598586,
-    "Longitude": -81.721952
-  },
-  {
-    "S#": 314,
+    "S#": 257,
     "Title": "R.E. Phelon Company",
     "Location": "Aiken, South Carolina",
     "Date": "9/15/1997",
@@ -4710,7 +3840,7 @@
     "Longitude": -81.72595949
   },
   {
-    "S#": 315,
+    "S#": 258,
     "Title": "Bethel Regional High School",
     "Location": "Bethel, Alaska",
     "Date": "2/19/1997",
@@ -4725,7 +3855,7 @@
     "Longitude": -161.7927517
   },
   {
-    "S#": 316,
+    "S#": 259,
     "Title": "San Diego State University",
     "Location": "San Diego, California",
     "Date": "8/15/1996",
@@ -4740,7 +3870,7 @@
     "Longitude": -117.1281628
   },
   {
-    "S#": 317,
+    "S#": 260,
     "Title": "Fort Lauderdale revenge shooting",
     "Location": "Fort Lauderdale, Florida",
     "Date": "2/9/1996",
@@ -4755,22 +3885,7 @@
     "Longitude": -80.1433786
   },
   {
-    "S#": 318,
-    "Title": "Fort Lauderdale City Parks Office",
-    "Location": "Fort Lauderdale, Florida",
-    "Date": "2/9/1996",
-    "Summary": "On February 9, 1996, a fired maintenance worker in Fort Lauderdale, Florida arrived at his former workplace and began shooting his ex-coworkers, killing five and wounding another before killing himself. The wounded victim later died of his injuries. He was dismissed from the position due to obscene behavior toward park visitors and for failing a drug test, though he attributed his termination to his supervisors' racism.",
-    "Fatalities": 7,
-    "Injured": 0,
-    "Total victims": 6,
-    "Mental Health Issues": "No",
-    "Race": "Black American or African American",
-    "Gender": "Male",
-    "Latitude": 26.11737018,
-    "Longitude": -80.14865708
-  },
-  {
-    "S#": 319,
+    "S#": 261,
     "Title": "Frontier Junior High School",
     "Location": "Moses Lake, Washington",
     "Date": "2/2/1996",
@@ -4785,7 +3900,7 @@
     "Longitude": -119.2750699
   },
   {
-    "S#": 320,
+    "S#": 262,
     "Title": "Richland High School",
     "Location": "Lynnville, Tennessee",
     "Date": "11/15/1995",
@@ -4800,22 +3915,7 @@
     "Longitude": -87.00610559
   },
   {
-    "S#": 321,
-    "Title": "Walter Rossler Company massacre",
-    "Location": "Corpus Christi, Texas",
-    "Date": "4/3/1995",
-    "Summary": "Disgruntled former metallurgist James Daniel Simpson, 28, opened fire throughout the Walter Rossler Company where he had worked before exiting the building and committing suicide.",
-    "Fatalities": 6,
-    "Injured": 0,
-    "Total victims": 6,
-    "Mental Health Issues": "No",
-    "Race": "unclear",
-    "Gender": "Male",
-    "Latitude": 27.823713,
-    "Longitude": -97.41739794
-  },
-  {
-    "S#": 322,
+    "S#": 263,
     "Title": "Walter Rossler Company",
     "Location": "Corpus Christi, Texas",
     "Date": "4/3/1995",
@@ -4830,7 +3930,7 @@
     "Longitude": -97.43073352
   },
   {
-    "S#": 323,
+    "S#": 264,
     "Title": "Montclair Post Office",
     "Location": "Montclair, New Jersey",
     "Date": "3/21/1995",
@@ -4845,7 +3945,7 @@
     "Longitude": -74.20862
   },
   {
-    "S#": 324,
+    "S#": 265,
     "Title": "Downtown Chapel Hill",
     "Location": "Chapel Hill, North Carolina",
     "Date": "1/26/1995",
@@ -4860,7 +3960,7 @@
     "Longitude": -79.03850407
   },
   {
-    "S#": 325,
+    "S#": 266,
     "Title": "Massachusetts Abortion Clinic",
     "Location": "Brookline, Massachusetts",
     "Date": "12/30/1994",
@@ -4875,7 +3975,7 @@
     "Longitude": -71.14080012
   },
   {
-    "S#": 326,
+    "S#": 267,
     "Title": "Wickliffe Middle School",
     "Location": "Wickliffe, Ohio",
     "Date": "11/7/1994",
@@ -4890,22 +3990,7 @@
     "Longitude": -81.46902046
   },
   {
-    "S#": 327,
-    "Title": "Air Force base shooting",
-    "Location": "Fairchild Air Force Base, Washington",
-    "Date": "6/20/1994",
-    "Summary": "Former airman Dean Allen Mellberg, 20, opened fire inside a hospital at the Fairchild Air Force Base before he was shot dead by a military police officer outside.",
-    "Fatalities": 5,
-    "Injured": 23,
-    "Total victims": 28,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 47.61864486,
-    "Longitude": -117.6483587
-  },
-  {
-    "S#": 328,
+    "S#": 268,
     "Title": "Fairchild Air Force Base Hospital",
     "Location": "Fairchild Air Force Base, Washington",
     "Date": "6/20/1994",
@@ -4920,7 +4005,7 @@
     "Longitude": -117.644099
   },
   {
-    "S#": 329,
+    "S#": 269,
     "Title": "Residence in Union, Kentucky",
     "Location": "Union, Kentucky",
     "Date": "5/26/1994",
@@ -4935,7 +4020,7 @@
     "Longitude": -84.67066339
   },
   {
-    "S#": 330,
+    "S#": 270,
     "Title": "Chelsea High School",
     "Location": "Chelsea, Michigan",
     "Date": "12/16/1993",
@@ -4950,22 +4035,7 @@
     "Longitude": -84.01868108
   },
   {
-    "S#": 331,
-    "Title": "Chuck E. Cheese's killings",
-    "Location": "Aurora, Colorado",
-    "Date": "12/14/1993",
-    "Summary": "Nathan Dunlap, 19, a recently fired Chuck E. Cheese's employee, went on a rampage through his former workplace and was arrested the following day. He now awaits execution on death row.",
-    "Fatalities": 4,
-    "Injured": 1,
-    "Total victims": 5,
-    "Mental Health Issues": "Unclear",
-    "Race": "black",
-    "Gender": "Male",
-    "Latitude": 39.754713,
-    "Longitude": -104.835869
-  },
-  {
-    "S#": 332,
+    "S#": 271,
     "Title": "Chuck E. Cheese in Aurora",
     "Location": "Aurora, Colorado",
     "Date": "12/14/1993",
@@ -4980,22 +4050,7 @@
     "Longitude": -104.7871863
   },
   {
-    "S#": 333,
-    "Title": "Long Island Rail Road massacre",
-    "Location": "Garden City, New York",
-    "Date": "12/7/1993",
-    "Summary": "Colin Ferguson, 35, opened fire on an eastbound Long Island Rail Road train as it approached a Garden City station. He was later arrested.",
-    "Fatalities": 6,
-    "Injured": 19,
-    "Total victims": 25,
-    "Mental Health Issues": "Yes",
-    "Race": "black",
-    "Gender": "Male",
-    "Latitude": 40.7267682,
-    "Longitude": -73.6342955
-  },
-  {
-    "S#": 334,
+    "S#": 272,
     "Title": "Long Island Rail Road Commuter Train",
     "Location": "Garden City, New York",
     "Date": "12/7/1993",
@@ -5010,7 +4065,7 @@
     "Longitude": -73.644712
   },
   {
-    "S#": 335,
+    "S#": 273,
     "Title": "Central Middle School",
     "Location": "Sheridan, Wyoming",
     "Date": "9/17/1993",
@@ -5025,22 +4080,7 @@
     "Longitude": -106.9599165
   },
   {
-    "S#": 336,
-    "Title": "Luigi's shooting",
-    "Location": "Fayetteville, North Carolina",
-    "Date": "8/6/1993",
-    "Summary": "Army Sgt. Kenneth Junior French, 22, opened fire inside Luigi's Italian restaurant while ranting about gays in the military before he was shot and arrested by police.",
-    "Fatalities": 4,
-    "Injured": 8,
-    "Total victims": 12,
-    "Mental Health Issues": "No",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 35.0529931,
-    "Longitude": -78.8787058
-  },
-  {
-    "S#": 337,
+    "S#": 274,
     "Title": "Luigi's Restaurant in Fayetteville",
     "Location": "Fayetteville, North Carolina",
     "Date": "8/6/1993",
@@ -5055,7 +4095,7 @@
     "Longitude": -79.03796125
   },
   {
-    "S#": 338,
+    "S#": 275,
     "Title": "Weber State University",
     "Location": "Ogden, Utah",
     "Date": "7/8/1993",
@@ -5070,22 +4110,7 @@
     "Longitude": -111.9675317
   },
   {
-    "S#": 339,
-    "Title": "101 California Street shootings",
-    "Location": "San Francisco, California",
-    "Date": "7/1/1993",
-    "Summary": "Failed businessman Gian Luigi Ferri, 55, opened fire throughout an office building before he committed suicide inside as police pursued him.",
-    "Fatalities": 9,
-    "Injured": 6,
-    "Total victims": 15,
-    "Mental Health Issues": "No",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 37.7789601,
-    "Longitude": -122.419199
-  },
-  {
-    "S#": 340,
+    "S#": 276,
     "Title": "Offices of Pettit & Martin in San Francisco",
     "Location": "San Francisco, California",
     "Date": "7/1/1993",
@@ -5100,7 +4125,7 @@
     "Longitude": -122.4424343
   },
   {
-    "S#": 341,
+    "S#": 277,
     "Title": "Dearborn Post Office",
     "Location": "Dearborn, Michigan",
     "Date": "5/6/1993",
@@ -5115,7 +4140,7 @@
     "Longitude": -83.21293244
   },
   {
-    "S#": 342,
+    "S#": 278,
     "Title": "Dana Point Post Office",
     "Location": "Dana Point, California",
     "Date": "5/6/1993",
@@ -5130,7 +4155,7 @@
     "Longitude": -117.696399
   },
   {
-    "S#": 343,
+    "S#": 279,
     "Title": "Simon's Rock College of Bard",
     "Location": "Great Barrington, Massachusetts",
     "Date": "12/14/1992",
@@ -5145,22 +4170,7 @@
     "Longitude": -73.36216339
   },
   {
-    "S#": 344,
-    "Title": "Watkins Glen killings",
-    "Location": "Watkins Glen, New York",
-    "Date": "10/15/1992",
-    "Summary": "John T. Miller, 50, killed four child-support workers in a county office building before turning the gun on himself.  Miller was upset about a court order garnishing his paycheck to cover overdue child-support payments.",
-    "Fatalities": 5,
-    "Injured": 0,
-    "Total victims": 5,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 42.3810555,
-    "Longitude": -76.8705777
-  },
-  {
-    "S#": 345,
+    "S#": 280,
     "Title": "Schuyler County Office Building",
     "Location": "Watkins Glen, New York",
     "Date": "10/15/1992",
@@ -5175,7 +4185,7 @@
     "Longitude": -76.86724659
   },
   {
-    "S#": 346,
+    "S#": 281,
     "Title": "Palo Duro High School",
     "Location": "Amarillo, Texas",
     "Date": "9/11/1992",
@@ -5190,22 +4200,7 @@
     "Longitude": -101.8805688
   },
   {
-    "S#": 347,
-    "Title": "Lindhurst High School shooting",
-    "Location": "Olivehurst, California",
-    "Date": "5/1/1992",
-    "Summary": "Former Lindhurst High School student Eric Houston, 20, angry about various personal failings, killed three students and a teacher at the school before surrendering to police after an eight-hour standoff. He was later sentenced to death.",
-    "Fatalities": 4,
-    "Injured": 10,
-    "Total victims": 14,
-    "Mental Health Issues": "No",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 39.07868761,
-    "Longitude": -121.5475762
-  },
-  {
-    "S#": 348,
+    "S#": 282,
     "Title": "Lindhurst High School",
     "Location": "Olivehurst, California",
     "Date": "5/1/1992",
@@ -5220,22 +4215,7 @@
     "Longitude": -121.5549539
   },
   {
-    "S#": 349,
-    "Title": "Royal Oak postal shootings",
-    "Location": "Royal Oak, Michigan",
-    "Date": "11/14/1991",
-    "Summary": "Laid-off postal worker Thomas McIlvane, 31, opened fire at his former workplace before committing suicide.",
-    "Fatalities": 5,
-    "Injured": 5,
-    "Total victims": 10,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 42.4894801,
-    "Longitude": -83.1446485
-  },
-  {
-    "S#": 350,
+    "S#": 283,
     "Title": "Royal Oak Post Office",
     "Location": "Royal Oak, Michigan",
     "Date": "11/14/1991",
@@ -5250,22 +4230,7 @@
     "Longitude": -83.15387427
   },
   {
-    "S#": 351,
-    "Title": "University of Iowa shooting",
-    "Location": "Iowa City, Iowa",
-    "Date": "11/1/1991",
-    "Summary": "Former graduate student Gang Lu, 28, went on a rampage on campus and then committed suicide at the scene.",
-    "Fatalities": 6,
-    "Injured": 1,
-    "Total victims": 7,
-    "Mental Health Issues": "Unclear",
-    "Race": "Asian",
-    "Gender": "Male",
-    "Latitude": 41.6606893,
-    "Longitude": -91.5302214
-  },
-  {
-    "S#": 352,
+    "S#": 284,
     "Title": "University of Iowa",
     "Location": "Iowa City, Iowa",
     "Date": "11/1/1991",
@@ -5280,22 +4245,7 @@
     "Longitude": -91.53117986
   },
   {
-    "S#": 353,
-    "Title": "Luby's massacre",
-    "Location": "Killeen, Texas",
-    "Date": "10/16/1991",
-    "Summary": "George Hennard, 35, drove his pickup truck into a Luby's cafeteria and opened fire before committing suicide.",
-    "Fatalities": 24,
-    "Injured": 20,
-    "Total victims": 44,
-    "Mental Health Issues": "No",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 31.1171194,
-    "Longitude": -97.7277959
-  },
-  {
-    "S#": 354,
+    "S#": 285,
     "Title": "Luby's Cafeteria in Killeen, Texas",
     "Location": "Killeen, Texas",
     "Date": "10/16/1991",
@@ -5310,7 +4260,7 @@
     "Longitude": -97.73392317
   },
   {
-    "S#": 355,
+    "S#": 286,
     "Title": "Ridgewood Post Office",
     "Location": "Ridgewood, New Jersey",
     "Date": "10/10/1991",
@@ -5325,7 +4275,7 @@
     "Longitude": -74.11264731
   },
   {
-    "S#": 356,
+    "S#": 287,
     "Title": "Wat Promkunaram Buddhist Temple",
     "Location": "Phoenix, Arizona",
     "Date": "8/9/1991",
@@ -5340,22 +4290,7 @@
     "Longitude": -112.0904854
   },
   {
-    "S#": 357,
-    "Title": "GMAC massacre",
-    "Location": "Jacksonville, Florida",
-    "Date": "6/18/1990",
-    "Summary": "James Edward Pough, 42, opened fire at a General Motors Acceptance Corporation office before committing suicide. (The day prior, Pough killed a pimp and prostitute and injured two others. Those victims are not included in the mass murder count.)",
-    "Fatalities": 10,
-    "Injured": 4,
-    "Total victims": 14,
-    "Mental Health Issues": "No",
-    "Race": "black",
-    "Gender": "Male",
-    "Latitude": 30.3321838,
-    "Longitude": -81.655651
-  },
-  {
-    "S#": 358,
+    "S#": 288,
     "Title": "GMAC Loan Office",
     "Location": "Jacksonville, Florida",
     "Date": "6/17/1990",
@@ -5370,22 +4305,7 @@
     "Longitude": -81.67576993
   },
   {
-    "S#": 359,
-    "Title": "Standard Gravure shooting",
-    "Location": "Louisville, Kentucky",
-    "Date": "9/14/1989",
-    "Summary": "Joseph T. Wesbecker, 47, gunned down eight people at his former workplace before committing suicide.",
-    "Fatalities": 9,
-    "Injured": 12,
-    "Total victims": 21,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 38.2542376,
-    "Longitude": -85.759407
-  },
-  {
-    "S#": 360,
+    "S#": 289,
     "Title": "Standard Gravure Corporation",
     "Location": "Louisville, Kentucky",
     "Date": "9/14/1989",
@@ -5400,7 +4320,7 @@
     "Longitude": -85.726243
   },
   {
-    "S#": 361,
+    "S#": 290,
     "Title": "Orange Glenn Post Office",
     "Location": "Escondido, California",
     "Date": "8/10/1989",
@@ -5415,22 +4335,7 @@
     "Longitude": -117.0722528
   },
   {
-    "S#": 362,
-    "Title": "Stockton schoolyard shooting",
-    "Location": "Stockton, California",
-    "Date": "1/17/1989",
-    "Summary": "Patrick Purdy, 26, an alcoholic with a police record, launched an assault at Cleveland Elementary School, where many young Southeast Asian immigrants were enrolled. Purdy killed himself with a shot to the head.",
-    "Fatalities": 6,
-    "Injured": 29,
-    "Total victims": 35,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 37.9577016,
-    "Longitude": -121.2907796
-  },
-  {
-    "S#": 363,
+    "S#": 291,
     "Title": "Cleveland Elementary School",
     "Location": "Stockton, California",
     "Date": "1/17/1989",
@@ -5445,7 +4350,7 @@
     "Longitude": -121.3018775
   },
   {
-    "S#": 364,
+    "S#": 292,
     "Title": "New Orleans Downtown Post Office",
     "Location": "New Orleans, Louisiana",
     "Date": "12/14/1988",
@@ -5460,7 +4365,7 @@
     "Longitude": -89.93147412
   },
   {
-    "S#": 365,
+    "S#": 293,
     "Title": "Oakland Elementary School",
     "Location": "Greenwood, South Carolina",
     "Date": "9/26/1988",
@@ -5475,7 +4380,7 @@
     "Longitude": -82.15355508
   },
   {
-    "S#": 366,
+    "S#": 294,
     "Title": "Comet Auto Parts and Montefiore School",
     "Location": "Chicago, Illinois",
     "Date": "9/22/1988",
@@ -5490,7 +4395,7 @@
     "Longitude": -87.68818145
   },
   {
-    "S#": 367,
+    "S#": 295,
     "Title": "Hubbard Woods Elementary School",
     "Location": "Winnetka, Illinois",
     "Date": "5/20/1988",
@@ -5505,22 +4410,7 @@
     "Longitude": -87.74211141
   },
   {
-    "S#": 368,
-    "Title": "ESL shooting",
-    "Location": "Sunnyvale, California",
-    "Date": "2/16/1988",
-    "Summary": "Former ESL Incorporated employee Richard Farley, 39, gunned down seven people at his former workplace. He was later arrested and now sits on death row at San Quentin.",
-    "Fatalities": 7,
-    "Injured": 4,
-    "Total victims": 11,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 37.3688301,
-    "Longitude": -122.0363496
-  },
-  {
-    "S#": 369,
+    "S#": 296,
     "Title": "Electromagnetic Systems Laboratory (ESL)",
     "Location": "Sunnyvale, California",
     "Date": "2/16/1988",
@@ -5535,7 +4425,7 @@
     "Longitude": -122.0256185
   },
   {
-    "S#": 370,
+    "S#": 297,
     "Title": "Pinellas Park High School",
     "Location": "Pinellas Park, Florida",
     "Date": "2/11/1988",
@@ -5550,22 +4440,7 @@
     "Longitude": -82.71058
   },
   {
-    "S#": 371,
-    "Title": "Shopping centers spree killings",
-    "Location": "Palm Bay, Florida",
-    "Date": "4/23/1987",
-    "Summary": "Retired librarian William Cruse, 59, was paranoid neighbors gossiped that he was gay. He drove to a Publix supermarket, killing two Florida Tech students en route before opening fire outside and killing a woman. He then drove to a Winn-Dixie supermarket and killed three more, including two police officers. Cruse was arrested after taking a hostage and died on death row in 2009.",
-    "Fatalities": 6,
-    "Injured": 14,
-    "Total victims": 20,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 28.0331886,
-    "Longitude": -80.6429695
-  },
-  {
-    "S#": 372,
+    "S#": 298,
     "Title": "Palm Bay Shopping Centers",
     "Location": "Palm Bay, Florida",
     "Date": "4/23/1987",
@@ -5580,7 +4455,7 @@
     "Longitude": -80.66662713
   },
   {
-    "S#": 373,
+    "S#": 299,
     "Title": "Fergus County High School",
     "Location": "Lewistown, Montana",
     "Date": "12/4/1986",
@@ -5595,22 +4470,7 @@
     "Longitude": -109.4844918
   },
   {
-    "S#": 374,
-    "Title": "United States Postal Service shooting",
-    "Location": "Edmond, Oklahoma",
-    "Date": "8/20/1986",
-    "Summary": "Postal worker Patrick Sherrill, 44, opened fire at a post office before committing suicide.",
-    "Fatalities": 15,
-    "Injured": 6,
-    "Total victims": 21,
-    "Mental Health Issues": "Unclear",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 35.6672015,
-    "Longitude": -97.42937037
-  },
-  {
-    "S#": 375,
+    "S#": 300,
     "Title": "Post office in Edmond, Oklahoma",
     "Location": "Edmond, Oklahoma",
     "Date": "8/20/1986",
@@ -5625,7 +4485,7 @@
     "Longitude": -97.41438792
   },
   {
-    "S#": 376,
+    "S#": 301,
     "Title": "New York Technical College",
     "Location": "Brooklyn, New York",
     "Date": "8/12/1986",
@@ -5640,7 +4500,7 @@
     "Longitude": -73.939513
   },
   {
-    "S#": 377,
+    "S#": 302,
     "Title": "Atlanta Post Office",
     "Location": "Atlanta, Georgia",
     "Date": "3/6/1985",
@@ -5655,7 +4515,7 @@
     "Longitude": -84.4231328
   },
   {
-    "S#": 378,
+    "S#": 303,
     "Title": "Goddard Junior High School",
     "Location": "Goddard, Kansas",
     "Date": "1/21/1985",
@@ -5670,22 +4530,7 @@
     "Longitude": -97.55070476
   },
   {
-    "S#": 379,
-    "Title": "San Ysidro McDonald's massacre",
-    "Location": "San Ysidro, California",
-    "Date": "7/18/1984",
-    "Summary": "James Oliver Huberty, 41, opened fire in a McDonald's restaurant before he was shot dead by a police officer.",
-    "Fatalities": 22,
-    "Injured": 19,
-    "Total victims": 41,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 32.5520013,
-    "Longitude": -117.0430813
-  },
-  {
-    "S#": 380,
+    "S#": 304,
     "Title": "McDonald's restaurant in San Ysidro",
     "Location": "San Ysidro, California",
     "Date": "7/18/1984",
@@ -5700,22 +4545,7 @@
     "Longitude": -117.047656
   },
   {
-    "S#": 381,
-    "Title": "Dallas nightclub shooting",
-    "Location": "Dallas, Texas",
-    "Date": "6/29/1984",
-    "Summary": "Abdelkrim Belachheb, 39, opened fire at an upscale nightclub after a woman rejected his advances. He was later arrested.",
-    "Fatalities": 6,
-    "Injured": 1,
-    "Total victims": 7,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 32.7801052,
-    "Longitude": -96.8000082
-  },
-  {
-    "S#": 382,
+    "S#": 305,
     "Title": "Ianni's Club in Dallas",
     "Location": "Dallas, Texas",
     "Date": "6/29/1984",
@@ -5730,7 +4560,7 @@
     "Longitude": -96.76631094
   },
   {
-    "S#": 383,
+    "S#": 306,
     "Title": "49th Street Elementary School",
     "Location": "Los Angeles, California",
     "Date": "2/24/1984",
@@ -5745,7 +4575,7 @@
     "Longitude": -118.5399542
   },
   {
-    "S#": 384,
+    "S#": 307,
     "Title": "Johnston Post Office",
     "Location": "Johnston, South Carolina",
     "Date": "8/19/1983",
@@ -5760,7 +4590,7 @@
     "Longitude": -81.8051584
   },
   {
-    "S#": 385,
+    "S#": 308,
     "Title": "Wah Mee Club in Seattle",
     "Location": "Seattle, Washington",
     "Date": "2/18/1983",
@@ -5775,22 +4605,7 @@
     "Longitude": -122.323646
   },
   {
-    "S#": 386,
-    "Title": "Welding shop shooting",
-    "Location": "Miami, Florida",
-    "Date": "8/20/1982",
-    "Summary": "Junior high school teacher Carl Robert Brown, 51, opened fire inside a welding shop and was later shot dead by a witness as he fled the scene.",
-    "Fatalities": 8,
-    "Injured": 3,
-    "Total victims": 11,
-    "Mental Health Issues": "Yes",
-    "Race": "white",
-    "Gender": "Male",
-    "Latitude": 25.796491,
-    "Longitude": -80.226683
-  },
-  {
-    "S#": 387,
+    "S#": 309,
     "Title": "Welding shop in Miami",
     "Location": "Miami, Florida",
     "Date": "8/20/1982",
@@ -5805,7 +4620,7 @@
     "Longitude": -80.20840397
   },
   {
-    "S#": 388,
+    "S#": 310,
     "Title": "Valley High School",
     "Location": "Las Vegas, Nevada",
     "Date": "3/19/1982",
@@ -5820,7 +4635,7 @@
     "Longitude": -115.3264875
   },
   {
-    "S#": 389,
+    "S#": 311,
     "Title": "University of South Carolina",
     "Location": "Columbia, South Carolina",
     "Date": "10/6/1979",
@@ -5835,7 +4650,7 @@
     "Longitude": -80.82077527
   },
   {
-    "S#": 390,
+    "S#": 312,
     "Title": "Grover Cleveland Elementary School",
     "Location": "San Diego, California",
     "Date": "1/29/1979",
@@ -5850,7 +4665,7 @@
     "Longitude": -117.1281628
   },
   {
-    "S#": 391,
+    "S#": 313,
     "Title": "Cal State Fullerton",
     "Location": "Fullerton, California",
     "Date": "7/12/1976",
@@ -5865,7 +4680,7 @@
     "Longitude": -117.92785
   },
   {
-    "S#": 392,
+    "S#": 314,
     "Title": "Los Angeles Computer Learning Center",
     "Location": "Los Angeles, California",
     "Date": "2/19/1976",
@@ -5880,7 +4695,7 @@
     "Longitude": -118.5399542
   },
   {
-    "S#": 393,
+    "S#": 315,
     "Title": "Olean High School",
     "Location": "Olean, New York",
     "Date": "12/30/1974",
@@ -5895,7 +4710,7 @@
     "Longitude": -78.43213922
   },
   {
-    "S#": 394,
+    "S#": 316,
     "Title": "Clara Barton Elementary School",
     "Location": "Chicago, Illinois",
     "Date": "1/17/1974",
@@ -5910,7 +4725,7 @@
     "Longitude": -87.68818145
   },
   {
-    "S#": 395,
+    "S#": 317,
     "Title": "New Orleans Police Shootings",
     "Location": "New Orleans, Louisiana",
     "Date": "12/31/1972",
@@ -5925,7 +4740,7 @@
     "Longitude": -89.93147412
   },
   {
-    "S#": 396,
+    "S#": 318,
     "Title": "St. Aloysius Church",
     "Location": "Spokane, Washington",
     "Date": "11/11/1971",
@@ -5940,7 +4755,7 @@
     "Longitude": -117.4159843
   },
   {
-    "S#": 397,
+    "S#": 319,
     "Title": "Rose-Mar College of Beauty",
     "Location": "Mesa, Arizona",
     "Date": "11/12/1966",
@@ -5955,7 +4770,7 @@
     "Longitude": -111.8163202
   },
   {
-    "S#": 398,
+    "S#": 320,
     "Title": "University of Texas at Austin",
     "Location": "Austin, Texas",
     "Date": "8/1/1966",

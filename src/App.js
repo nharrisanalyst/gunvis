@@ -6,6 +6,10 @@ import * as d3 from 'd3-request';
 import * as data from './data.json';
 import PointGL from  './PointGL';
 import Select from './Select';
+import HistoChart from './Histogram';
+import {HistoStyle} from './chartStyle';
+import histoData from './histoData';
+
 
 class App extends Component {
     constructor(props){
@@ -70,10 +74,13 @@ _resize(){
 
   render() {
 
+
     return (
       <div className="App" style={{position: 'relative'}}>
-      
-
+        <Select/>
+         <HistoChart indoStyle={HistoStyle.race} data ={histoData.race} title={'Race of Shooter'} />
+         <HistoChart indoStyle={HistoStyle.gender} data ={histoData.gender} title={'Gender of Shooter'} />
+         <HistoChart indoStyle={HistoStyle.mentalHealth} data ={histoData.mentalHealth} title={'Mental health of Shooter'}  />
         <ReactMapGL
         {...this.state.viewpoint}
          onViewportChange={(viewpoint) => this._onViewPortChange(viewpoint)}
