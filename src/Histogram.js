@@ -22,7 +22,7 @@ const HistoChart = ({visible, indoStyle, data, title}) =>{
     barData.push({x:key.toString(), y:data[key]})
 
   });
- let histoStyle = {height:400, width:300,  zIndex: 100}
+ let histoStyle = {height:400, width:300,  zIndex: 100, opacity:.8, borderRadius: '10px'}
 
 
     Object.keys(indoStyle).forEach((key)=>{
@@ -32,8 +32,8 @@ const HistoChart = ({visible, indoStyle, data, title}) =>{
   return(
 
     <div className='chartClass' style={{...histoStyle}}>
-      <div style={{height:25, width:300, backgroundColor:'white', textAlign:'center'}}> <h3>{title}</h3></div>
-       <XYPlot height = {300} width={300} style={{backgroundColor:'white'}}
+      <div style={{height:25, width:300, backgroundColor:'white', textAlign:'center',borderTopLeftRadius: '2px',borderTopRightRadius: '2px'}}> <h3>{title}</h3></div>
+       <XYPlot height = {300} width={300} style={{backgroundColor:'white', borderRadiusBottomLeft:'2px',borderRadiusBottomRight:'2px',}}
        yType="linear"
        xType="ordinal"
 
