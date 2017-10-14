@@ -25,8 +25,10 @@ class App extends Component {
 
         },
         data:null,
+        chartView:true
       }
       this._resize=this._resize.bind(this);
+      this._handleShowChart=this._handleShowChart.bind(this);
     }
 
  _onViewPortChange(viewpoint){
@@ -60,8 +62,14 @@ _onWindowChange(viewport){
 
   this.setState({viewpoint:{...this.state.viewpoint,...viewport}});
 }
+//this is a method for handling state change when chart view is selected off.
+_handleShowChart(e){
+  
+  this.setState((prevState)=>({
+    chartView: !prevState.chartView
+  }));
 
-
+}
 
 _resize(){
     let viewpoint={
@@ -73,14 +81,16 @@ _resize(){
 }
 
   render() {
+    let Charts = null;
+    if(this.state.chartView){
 
+          Charts= <div> <HistoChart indoStyle={HistoStyle.race} data ={histoData.race} title={'Race of Shooter'} /><HistoChart indoStyle={HistoStyle.gender} data ={histoData.gender} title={'Gender of Shooter'} /><HistoChart indoStyle={HistoStyle.mentalHealth} data ={histoData.mentalHealth} title={'Mental health of Shooter'}  /></div>
+          }
 
     return (
       <div className="App" style={{position: 'relative'}}>
-        <Select/>
-         <HistoChart indoStyle={HistoStyle.race} data ={histoData.race} title={'Race of Shooter'} />
-         <HistoChart indoStyle={HistoStyle.gender} data ={histoData.gender} title={'Gender of Shooter'} />
-         <HistoChart indoStyle={HistoStyle.mentalHealth} data ={histoData.mentalHealth} title={'Mental health of Shooter'}  />
+        <Select showChart={this.state.chartView} onClick={this._handleShowChart}/>
+         {Charts}
         <ReactMapGL
         {...this.state.viewpoint}
          onViewportChange={(viewpoint) => this._onViewPortChange(viewpoint)}
