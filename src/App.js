@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ReactMapGL from 'react-map-gl';
+import ReactMapGL, {Popup} from 'react-map-gl';
 import './App.css';
 import mapBoxApiAccessToken from './mapBoxToken';
 import * as d3 from 'd3-request';
@@ -25,10 +25,13 @@ class App extends Component {
 
         },
         data:null,
-        chartView:true
+        chartView:true,
+        cordinates:[-113.7744234375003,36.38587260290347],
+        summary:'ever after'
       }
       this._resize=this._resize.bind(this);
       this._handleShowChart=this._handleShowChart.bind(this);
+      this.setCordinates=this.setCordinates.bind(this);
     }
 
  _onViewPortChange(viewpoint){
@@ -48,8 +51,8 @@ class App extends Component {
       stateData.push({
         position:[row.Longitude,row.Latitude],
         injured: row['Total victims'],
-        mentalHealth:row['Mental Health Issues']
-
+        mentalHealth:row['Mental Health Issues'],
+        summary: row['Summary']
       })
     })
    this.setState({data:stateData})
@@ -64,7 +67,7 @@ _onWindowChange(viewport){
 }
 //this is a method for handling state change when chart view is selected off.
 _handleShowChart(e){
-  
+
   this.setState((prevState)=>({
     chartView: !prevState.chartView
   }));
@@ -79,6 +82,17 @@ _resize(){
 
 
 }
+
+
+  setCordinates(info){
+    console.log(info)
+   this.setState({cordinates: info.lngLat})
+   if(info.object){
+   this.setState({summary:info.object.summary})
+ }
+
+  }
+
 
   render() {
     let Charts = null;
@@ -96,8 +110,17 @@ _resize(){
          onViewportChange={(viewpoint) => this._onViewPortChange(viewpoint)}
         mapboxApiAccessToken={mapBoxApiAccessToken}
         mapStyle={'mapbox://styles/mapbox/dark-v9'}>
-          <PointGL data={this.state.data} viewport={this.state.viewpoint} />
+          <PointGL  setCordinates={this.setCordinates} data={this.state.data} viewport={this.state.viewpoint} />
+          <Popup longitude={this.state.cordinates[0]}
+                 latitude={this.state.cordinates[1]}
+          >
+            <div>
+            <p>
+             Summary: {this.state.summary}
+            </p>
 
+            </div>
+          </Popup>
        </ReactMapGL>
        </div>
 

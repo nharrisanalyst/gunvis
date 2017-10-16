@@ -51,7 +51,7 @@ export default class Select extends Component {
 render(){
   return(  <div
 
-         style={{backgroundColor:'white',position: 'absolute',zIndex: 1,width:'180px',height:'120px',boxShadow: '0 1px 2px rgba(0, 0, 0, 0.1)',opacity:.75}}>
+         style={{backgroundColor:'white',position: 'absolute',zIndex: 1,width:'180px',height:'120px',boxShadow: '0 1px 2px rgba(0, 0, 0, 0.1)',opacity:.85}}>
     <ShowChart handleChange={this.showChart} showChart={this.props.showChart}></ShowChart>
      <ColorsLegend></ColorsLegend>
     </div>)

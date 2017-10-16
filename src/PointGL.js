@@ -7,13 +7,24 @@ import {color} from './constents';
 
 
 export default class PointGL extends Component{
+  constructor(props){
+   super(props)
+   this.setCordinates=this.setCordinates.bind(this);
+
+ }
+
+
+
   _initialize(gl) {
     gl.enable(gl.DEPTH_TEST);
     gl.depthFunc(gl.LEQUAL);
   }
 
+  setCordinates(info){
+    console.log(info);
+    this.props.setCordinates(info);
 
-
+  }
   render(){
     if(this.props.data===null){
       return null
@@ -31,6 +42,7 @@ export default class PointGL extends Component{
    radiusMinPixels: 1,
    radiusMaxPixels: 100,
    radiusScale: 250,
+   onHover: info => this.setCordinates(info),
    ...this.props
 
     })
