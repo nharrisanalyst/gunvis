@@ -26,8 +26,12 @@ class App extends Component {
         },
         data:null,
         chartView:true,
-        cordinates:[-113.7744234375003,36.38587260290347],
-        summary:'ever after'
+        cordinates:[70,70],
+        summary:'ever after',
+        popOver:false,
+        fatalities: 'na',
+        injured: 'na',
+        totalV: 'na'
       }
       this._resize=this._resize.bind(this);
       this._handleShowChart=this._handleShowChart.bind(this);
@@ -52,7 +56,12 @@ class App extends Component {
         position:[row.Longitude,row.Latitude],
         injured: row['Total victims'],
         mentalHealth:row['Mental Health Issues'],
-        summary: row['Summary']
+        summary: row['Summary'],
+        fatalities: row['Fatalities'],
+        injured: row['Injured'],
+        totalV: row["Total victims"]
+
+
       })
     })
    this.setState({data:stateData})
@@ -72,6 +81,7 @@ _handleShowChart(e){
     chartView: !prevState.chartView
   }));
 
+
 }
 
 _resize(){
@@ -88,7 +98,15 @@ _resize(){
     console.log(info)
    this.setState({cordinates: info.lngLat})
    if(info.object){
+   this.setState({popOver:true})
    this.setState({summary:info.object.summary})
+   this.setState({fatalities:info.object.fatalities})
+   this.setState({injured:info.object.injured})
+   this.setState({totalV:info.object.totalV})
+
+
+ }else{
+   this.setState({popOver:false})
  }
 
   }
@@ -100,7 +118,29 @@ _resize(){
 
           Charts= <div> <HistoChart indoStyle={HistoStyle.race} data ={histoData.race} title={'Race of Shooter'} /><HistoChart indoStyle={HistoStyle.gender} data ={histoData.gender} title={'Gender of Shooter'} /><HistoChart indoStyle={HistoStyle.mentalHealth} data ={histoData.mentalHealth} title={'Mental health of Shooter'}  /></div>
           }
+     let popOver=null;
 
+    if(this.state.popOver){
+        popOver =<Popup longitude={this.state.cordinates[0]}
+               latitude={this.state.cordinates[1]}
+               closeButton={false}
+               tipSize={20}
+        >
+          <div>
+          <p style={{color:'white',opacity:.8}}>
+           Summary: {this.state.summary}
+           <br></br>
+           Fatalities:{this.state.fatalities}
+           <br></br>
+           Injured: {this.state.injured}
+           <br></br>
+           Total Victims:{this.state.totalV}
+          </p>
+
+          </div>
+        </Popup>
+
+    }
     return (
       <div className="App" style={{position: 'relative'}}>
         <Select showChart={this.state.chartView} onClick={this._handleShowChart}/>
@@ -111,16 +151,7 @@ _resize(){
         mapboxApiAccessToken={mapBoxApiAccessToken}
         mapStyle={'mapbox://styles/mapbox/dark-v9'}>
           <PointGL  setCordinates={this.setCordinates} data={this.state.data} viewport={this.state.viewpoint} />
-          <Popup longitude={this.state.cordinates[0]}
-                 latitude={this.state.cordinates[1]}
-          >
-            <div>
-            <p>
-             Summary: {this.state.summary}
-            </p>
-
-            </div>
-          </Popup>
+          {popOver}
        </ReactMapGL>
        </div>
 
