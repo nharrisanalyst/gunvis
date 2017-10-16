@@ -2,6 +2,8 @@
 
 
 
+
+
 const color ={
   none:[112, 249, 249],
   mentalHealth:[255,0,0],
@@ -11,9 +13,9 @@ const color ={
 
 const color2={
   none:'rgb(112, 249, 249)',
-  mentalHealth:'rgb(255,0,0]',
-  Unknown:'rgb(0,0,255]',
-  Unclear:'rgb(255,255,0]'
+  mentalHealth:'rgb(255,0,0)',
+  Unknown:'rgb(0,0,255)',
+  Unclear:'rgb(255,255,0)'
 }
 
 
